@@ -50,7 +50,7 @@ Proy 4 - Proyecto FIJR
 		publico: general… industria…
 
 
-Proy5 - E-sport Live VR 
+Proy5 - IEsport Life VR 
 ========================================
 	Online y presencial 
 	Organizadores de eventos para competición IE Sport
@@ -70,18 +70,18 @@ Proy5 - E-sport Live VR
 Proy 6 - Authenticity 
 ========================================
 	Ir de viaje ( turismo) 
-	Vivimos los sitios en distintos sitios (turistas… en distintos lugares)
-	ej. Tripavidsor..  de da un rating de lo que debes hacer 
+	Vivimos los sitios en distintas ciudades 
+	TripAdvisor te ofrece "lo mejor", pero no necesariamente "lo único"
 
-	
-	Sitios locales auténticos 
+	Destacar sitios locales auténticos 
 	Ofrecer mapas y rutas en función de los usuarios
-	Mostrar los sitios! Como son…. 	Fotogalería! 
-		con registros de las conversaciones 
+	Mostrar los sitios! Como son! 	Fotogalería! 
+	Registrar conversaciones
 
 
 
 	chatbot 
+	web
 
 
 
@@ -101,6 +101,7 @@ Proy 7 -  GranadaShopping
 Proy 8 -  Solidario
 ========================================
 	  
+
 
 
 
