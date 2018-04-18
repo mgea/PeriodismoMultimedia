@@ -98,7 +98,7 @@ Proy 7 -  GranadaShopping
 	
 
 	
-Proy 8 -  
+Proy 8 -  Solidario
 ========================================
 	  
 
