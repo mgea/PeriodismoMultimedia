@@ -50,7 +50,7 @@ Proy 4 - Proyecto FIJR
 		publico: general… industria…
 
 
-Proy5 - IEsport Life VR 
+Proy5 - E-sport Live VR 
 ========================================
 	Online y presencial 
 	Organizadores de eventos para competición IE Sport
