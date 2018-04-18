@@ -7,7 +7,7 @@ Proy1 -  granada sonora
 ========================================
 		Granada es una ciudad de grandes artistas 
 		Proponer una agenda musical 
-    Crear un bot (Telegram) para inoformar
+    		Crear un bot (Telegram) para informar
 
 		Uso de RRSS para gustos musicales 
 		Mostrar Rutas
@@ -26,7 +26,7 @@ Proy 2 - Minervaflix
 Proy 3 - Cerquita de Lorca 
 ========================================
 		Mariela - Alvaro 
-**Las ciudades cuentan cosas** 
+		**Las ciudades cuentan cosas** 
 		Hay una huella del tiempo que es la huella de lorca 
 
 		Chatbot - 1a persona de 3 personajes (falla, rosales, Isidoro calderón) 
