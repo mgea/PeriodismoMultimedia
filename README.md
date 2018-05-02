@@ -14,8 +14,9 @@ Proy1 -  granada sonora
 		Realidad inmersiva para  información de los grupos en bares
     
 
-		Website: https://mj19942.github.io
-		
+		[Website](https://mj19942.github.io)
+		Chatbot: @granadasonora_bot.   (t.me/@granadasonora_bot)
+		![equipo](https://github.com/mgea/PeriodismoMultimedia18/blob/master/granada_sonora.JPG)
 
 
 
