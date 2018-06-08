@@ -5,6 +5,7 @@ Proyectos que se van a desarrollar
 
 Proy1 -  granada sonora 
 ========================================
+		Mª José, Laura, Laura, María, Juan Carlos
 		Granada es una ciudad de grandes artistas 
 		Proponer una agenda musical 
     		Crear un bot (Telegram) para informar
@@ -45,9 +46,15 @@ Proy 3 - Cerquita de Lorca
 		Información sobre los lugares  - huellas .. 
 
 
-Proy 4 - Proyecto FIJR
+
+
+
+![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/cerquitadelorca.JPG)
+
+
+Proy 4 - Proyecto FIJR: Sala Adentro
 ========================================		
-		proyecto de cine, ciudad cultural de GRX
+		Proyecto de cine, ciudad cultural de GRX
 		fomentar este festival 
 
 		acomodador virtual - bot   (horarios de programación)  recordatorios de peliculas
@@ -60,6 +67,9 @@ Proy 4 - Proyecto FIJR
 		localización de rodajes en 360º (ver la escena/trailer)
 
 		publico: general… industria…
+
+
+![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/minervaflix.JPG)
 
 
 Proy5 - E-sport Live VR 
