@@ -18,7 +18,7 @@ Proy1 -  granada sonora
 		Chatbot: @granadasonora_bot(t.me/@granadasonora_bot)
 		![equipo](https://github.com/mgea/PeriodismoMultimedia18/blob/master/granada_sonora.JPG)
 
-
+!(equipo)[https://github.com/mgea/PeriodismoMultimedia18/blob/master/granada_sonora.JPG]
 
 Proy 2 - Minervaflix
 ========================================
