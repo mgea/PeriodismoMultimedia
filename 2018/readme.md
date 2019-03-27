@@ -36,7 +36,7 @@ Proy 2 - Minervaflix
 		chatbot que ofrece información del usuario como un amigo 
 		Uso de RA para mostrar trailer sobre carátulas 
 
-![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/minervaflix.JPG)
+![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/minervaflix.JPG)
 
 
 Proy 3 - Cerquita de Lorca 
@@ -50,7 +50,7 @@ Proy 3 - Cerquita de Lorca
 
 
 
-![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/cerquitadelorca.JPG)
+![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/cerquitadelorca.JPG)
 
 
 Proy 4 - Proyecto FIJR: Sala Adentro
@@ -89,7 +89,7 @@ Proy5 - E-sport Live VR
 	Modo presencial: RA . Ver las estadísticas de cada jugador (con el Móvil) cuando estas presencial… 
 
 
-![E-sport Live VR , 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/isport.JPG) 
+![E-sport Live VR , 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/isport.JPG) 
 
 Proy 6 - Authenticity 
 ========================================
@@ -107,7 +107,7 @@ Proy 6 - Authenticity
 
 	chatbot 
 
-![E-sport Live VR , 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/authencity.JPG) 
+![Authenticity VR , 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/authencity.JPG) 
 
 Proy 7 -  GranadaShopping 
 ========================================
