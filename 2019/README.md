@@ -3,6 +3,18 @@
 
 Proyectos que se van a desarrollar 
 
+
+Proy1 -  CONOCE TU HISTORIA
+========================================
+		Autores: 
+    Argumento: 
+    DIRIGIDO A: Generación Z
+    Experiencia: Hibrida Real/Periodico online
+
+		[Website]()
+		Chatbot: @XXXX (t.me/@granadasonora_bot)
+		![Imagen]()
+
 Proy1 -  Videojuego
 ========================================
 		Autores: 
