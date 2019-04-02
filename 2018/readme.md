@@ -3,7 +3,7 @@
 
 Proyectos que se van a desarrollar 
 
-Proy1 -  granada sonora 
+Proy1 -  Granada sonora 
 ========================================
 		Mª José, Laura, Laura, María, Juan Carlos
 		Granada es una ciudad de grandes artistas 
@@ -14,13 +14,12 @@ Proy1 -  granada sonora
 		Mostrar Rutas
 		Realidad inmersiva para  información de los grupos en bares
     
-
-		[Website](https://mj19942.github.io)
+		Website: https://mj19942.github.io
+		Github: https://github.com/mj19942
+		Chatbot: [@granadasonora_bot](https://t.me/granadasonora_bot)
 		
-		![equipo](https://github.com/mgea/PeriodismoMultimedia18/blob/master/granada_sonora.JPG)
-
-  *  Chatbot: [@granadasonora_bot](https://t.me/@granadasonora_bot)
-  * [Website https://mj19942.github.io](https://mj19942.github.io)
+  * Chatbot: [@granadasonora_bot](https://t.me/granadasonora_bot)
+  * [Website https://mj19942.github.io ](https://mj19942.github.io)
   * [Github mj19942](https://github.com/mj19942)
  
 ![Granada Sonora, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/granada_sonora.JPG)
