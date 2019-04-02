@@ -3,6 +3,22 @@
 
 Proyectos que se van a desarrollar 
 
+Generación de ideas: 
+
+* Temáticas
+
+![Temáticas](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Tema.JPG) 
+
+* Público objetivo
+
+![Público](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Publicos.JPG)
+
+
+* Experiencia
+
+![Experiencia](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Experiencia.JPG)
+
+
 
 Proy1 -  CONOCE TU HISTORIA
 ========================================
