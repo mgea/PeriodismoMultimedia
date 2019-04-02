@@ -53,6 +53,15 @@ Proy 4 - Proyecto FIJR: Sala Adentro
 ========================================		
 		Proyecto de cine, ciudad cultural de GRX
 		fomentar este festival 
+		
+		El objetivo principal del proyecto “Sala adentro” es potenciar los contenidos digitales
+		para explorar nuevos formatos creativos de calidad y poder, de este modo, 
+		narrar historias y contar contenido periodístico cultural de otra manera. 
+		Sala Adentro se presenta, por ello, como un laboratorio periodístico
+		con un enfoque cultural destinado a todos los públicos, que pretende acercar 
+		la información referente a los numerosos festivales de cine que se celebran en España 
+		durante todo el año y que son poco conocidos debido a su poca difusión en los medios.
+		
 
 		acomodador virtual - bot   (horarios de programación)  recordatorios de peliculas
 		cartelera virtual en ciudad - RA (ver trailer)
@@ -64,7 +73,10 @@ Proy 4 - Proyecto FIJR: Sala Adentro
 		localización de rodajes en 360º (ver la escena/trailer)
 
 		publico: general… industria…
+		Web: https://celiacuellarromero.wixsite.com/salaadentrolab
 
+* [Web](https://celiacuellarromero.wixsite.com/salaadentrolab)
+* [Premiados en 360 grados](https://www.thinglink.com/sc ene/987751640645763075) 
 
 ![Sala Adentro, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/sala_adentro.JPG)
 
