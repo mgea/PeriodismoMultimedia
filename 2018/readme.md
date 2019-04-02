@@ -50,7 +50,7 @@ Proy 3 - Cerquita de Lorca
 
 
 
-![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/cerquitadelorca.JPG)
+![Cerquita de Lorca, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/cerquitadelorca.JPG)
 
 
 Proy 4 - Proyecto FIJR: Sala Adentro
@@ -70,7 +70,7 @@ Proy 4 - Proyecto FIJR: Sala Adentro
 		publico: general… industria…
 
 
-![Minervaflix, 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/sala_adentro.JPG)
+![Sala Adentro, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/sala_adentro.JPG)
 
 
 Proy5 - E-sport Live VR 
@@ -129,7 +129,7 @@ Proy 8 -  Solidario
 
 
 
-![E-sport Live VR , 2018](https://github.com/mgea/PeriodismoMultimedia18/blob/master/evolving.JPG) 
+![E-sport Live VR , 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/evolving.JPG) 
 
 
 
