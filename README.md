@@ -9,6 +9,8 @@ Master de Nuevos Medios Interactivos y Periodismo Multiplataforma
 - [Proyecto del 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/readme.md) 
 
 
+- [Proyecto del 2019](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/readme.md) 
+
 ---
 
 Inspiración
