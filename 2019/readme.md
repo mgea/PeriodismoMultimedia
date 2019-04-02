@@ -20,7 +20,7 @@ Generación de ideas:
 
 
 
-Proy1 -  CONOCE TU HISTORIA
+#1 -  CONOCE TU HISTORIA
 ========================================
 		Autores: 
     Argumento: 
@@ -32,8 +32,10 @@ Proy1 -  CONOCE TU HISTORIA
 		![Imagen]()
 		
 		
+![Proy1](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy1.JPG)
 
-Proy1 -  Videojuego
+
+#2 -  Videojuego
 ========================================
 		Autores: 
     Argumento: 
@@ -43,25 +45,11 @@ Proy1 -  Videojuego
 		Chatbot: @XXXX (t.me/@granadasonora_bot)
 		![Imagen]()
 
-		
-![Proy1](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy1.JPG)
 
-
-Proy2 -  i-doc
-========================================
-		Autores: 
-    Argumento: 
-    
-
-		[Website]()
-		Chatbot: @XXXX(t.me/@granadasonora_bot)
-		![Imagen]()
-
-		
 ![Proy2](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy2.JPG)
 
 
-Proy3 - 
+#3 -  i-doc
 ========================================
 		Autores: 
     Argumento: 
@@ -70,14 +58,12 @@ Proy3 -
 		[Website]()
 		Chatbot: @XXXX(t.me/@granadasonora_bot)
 		![Imagen]()
-
-
 
 		
 ![Proy3](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy3.JPG)
 
 
-Proy4 - 
+#4 - 
 ========================================
 		Autores: 
     Argumento: 
@@ -87,5 +73,23 @@ Proy4 -
 		Chatbot: @XXXX(t.me/@granadasonora_bot)
 		![Imagen]()
 
+
+
+		
+![Proy4](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy4.JPG)
+
+
+#5 - 
+========================================
+		Autores: 
+    Argumento: 
+    
+
+		[Website]()
+		Chatbot: @XXXX(t.me/@granadasonora_bot)
+		![Imagen]()
+
+	
+![Proy5](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy5.JPG)
 
 
