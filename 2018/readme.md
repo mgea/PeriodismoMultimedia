@@ -51,6 +51,7 @@ Proy 3 - Cerquita de Lorca
 
 Proy 4 - Proyecto FIJR: Sala Adentro
 ========================================		
+		Celia , David , Cristina 
 		Proyecto de cine, ciudad cultural de GRX
 		fomentar este festival 
 		
@@ -76,7 +77,7 @@ Proy 4 - Proyecto FIJR: Sala Adentro
 		Web: https://celiacuellarromero.wixsite.com/salaadentrolab
 
 * [Web](https://celiacuellarromero.wixsite.com/salaadentrolab)
-* [Premiados en 360 grados](https://www.thinglink.com/sc ene/987751640645763075) 
+* [Premiados en 360 grados](https://www.thinglink.com/scene/987751640645763075) 
 
 ![Sala Adentro, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/sala_adentro.JPG)
 
