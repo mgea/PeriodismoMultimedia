@@ -31,6 +31,7 @@ Generación de ideas:
 		Chatbot: @XXXX (t.me/@granadasonora_bot)
 		![Imagen]()
 		
+  :octocat:  
 		
 ![Proy1](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy1.JPG)
 
@@ -74,7 +75,7 @@ Generación de ideas:
 		![Imagen]()
 
 
-
+  :octocat:  
 		
 ![Proy4](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy4.JPG)
 
