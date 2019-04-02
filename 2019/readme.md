@@ -30,6 +30,8 @@ Proy1 -  CONOCE TU HISTORIA
 		[Website]()
 		Chatbot: @XXXX (t.me/@granadasonora_bot)
 		![Imagen]()
+		
+		
 
 Proy1 -  Videojuego
 ========================================
@@ -41,6 +43,8 @@ Proy1 -  Videojuego
 		Chatbot: @XXXX (t.me/@granadasonora_bot)
 		![Imagen]()
 
+		
+![Proy1](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy1.JPG)
 
 
 Proy2 -  i-doc
@@ -53,6 +57,8 @@ Proy2 -  i-doc
 		Chatbot: @XXXX(t.me/@granadasonora_bot)
 		![Imagen]()
 
+		
+![Proy2](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy2.JPG)
 
 
 Proy3 - 
@@ -67,6 +73,8 @@ Proy3 -
 
 
 
+		
+![Proy3](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy3.JPG)
 
 
 Proy4 - 
