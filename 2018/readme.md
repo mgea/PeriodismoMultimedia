@@ -16,16 +16,13 @@ Proy1 -  granada sonora
     
 
 		[Website](https://mj19942.github.io)
-		Chatbot: @granadasonora_bot(t.me/@granadasonora_bot)
+		
 		![equipo](https://github.com/mgea/PeriodismoMultimedia18/blob/master/granada_sonora.JPG)
 
-
-[Website](https://mj19942.github.io)
-[Github](https://github.com/mj19942)
-
-[@granadasonora_bot](t.me/@granadasonora_bot)
-
-
+  *  Chatbot: [@granadasonora_bot](https://t.me/@granadasonora_bot)
+  * [Website https://mj19942.github.io](https://mj19942.github.io)
+  * [Github mj19942](https://github.com/mj19942)
+ 
 ![Granada Sonora, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/granada_sonora.JPG)
 
 
