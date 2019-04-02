@@ -19,7 +19,9 @@ Proy1 -  Granada sonora
 		Chatbot: [@granadasonora_bot](https://t.me/granadasonora_bot)
 		
   * Chatbot: [@granadasonora_bot](https://t.me/granadasonora_bot)
+  
   * [Website https://mj19942.github.io ](https://mj19942.github.io)
+  
   * [Github mj19942](https://github.com/mj19942)
  
 ![Granada Sonora, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/granada_sonora.JPG)
