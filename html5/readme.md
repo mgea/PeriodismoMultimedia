@@ -2,7 +2,7 @@
 
 * INSPECTORES DE CODIGO HTML-CSS: Web Developer (Chrome)
 
-* EDITOR HTML5 (Open Source) - [Brackets IO](https://brackets.io/) 
+* EDITOR HTML5 (Open Source) - [Brackets IO](http://brackets.io) 
 
 * SANDBOX (Probar código HTML)
 
