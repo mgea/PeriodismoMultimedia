@@ -30,7 +30,7 @@ Proyectos:
 
 HTML5 
 
-- Fundamentos para crear (contenido HTML5)[https://github.com/mgea/PeriodismoMultimedia/blob/master/html5/readme.md]
+- Fundamentos para crear [contenido HTML5](https://github.com/mgea/PeriodismoMultimedia/blob/master/html5/readme.md)
 
 Filosofía Open Source
 
