@@ -27,4 +27,8 @@ Proyectos:
 
 - 
 
+Filosofía Open Source
+
+- [Scroll-AudioFade](https://github.com/mgea/AudioFade) Proyecto resultado de reutilizar el repositorio AudioFade de @KamboBlack  
+
 
