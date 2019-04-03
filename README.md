@@ -2,7 +2,7 @@
 
 Creación Multimedia y Periodismo Multiplataforma
 
-Master de Nuevos Medios Interactivos y Periodismo Multiplataforma 
+[Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/)  
 
 ---
 
