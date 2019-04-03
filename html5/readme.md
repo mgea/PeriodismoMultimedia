@@ -29,9 +29,9 @@ Imágenes a tamaño completo en pantalla)
 
 * CREACIÓN DE CODIGO HTML:
 
-  - editores visuales open source (pingendo.com/) 
+  - editores visuales open source [Pingendo](https://pingendo.com)
 
-  - diseño visual de páginas Web (one page responsive) https://mobirise.com/es/
+  - diseño visual de páginas Web (one page responsive) [Mobirise](https://mobirise.com/es/)
   
 
 * TUTORIALES CODIGO HTML:
