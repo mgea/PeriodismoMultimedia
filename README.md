@@ -1,6 +1,6 @@
 ### PeriodismoMultimedia 2019
 
-Creación Multimedia y Periodismo Multiplataforma
+Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Multiplataforma
 
 [Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/)  
 
