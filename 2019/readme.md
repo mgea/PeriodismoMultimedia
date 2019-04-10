@@ -20,12 +20,15 @@ Generación de ideas:
 
 
 
-#1 -  CONOCE TU HISTORIA
+#1 -  CONOCE TU HISTORIA: Los Hermanos Quero
 ========================================
-		Autores: 
-    Argumento: 
-    DIRIGIDO A: Generación Z
-    Experiencia: Hibrida Real/Periodico online
+
+*   :octocat: [Los Hermanos Quero](https://github.com/andreafallen95/PeriodismoMultimedia/blob/master/README.md)
+
+	Autores: 
+    	Argumento: 
+    	DIRIGIDO A: Generación Z
+    	Experiencia: Hibrida Real/Periodico online
 
 		[Website]()
 		Chatbot: @XXXX (t.me/@granadasonora_bot)
