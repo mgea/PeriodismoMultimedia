@@ -57,7 +57,10 @@ Generación de ideas:
 
 #3 -  i-doc
 ========================================
-		Autores: 
+
+* [Viajeras Revolucionarias](https://github.com/MariJose13/ViajerasRevolucionarias) 
+
+Autores: 
     Argumento: 
     
 
