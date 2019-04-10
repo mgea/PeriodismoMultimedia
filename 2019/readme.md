@@ -85,13 +85,13 @@ Generación de ideas:
 ![Proy4](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy4.JPG)
 
 
-#5 - 
+#5 - Gastroturismo
 ========================================
 		Autores: 
     Argumento: 
     
 
-		[Website]()
+		Herramientas: @Manybot
 		Chatbot: @XXXX(t.me/@granadasonora_bot)
 		![Imagen]()
 
