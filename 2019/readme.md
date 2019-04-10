@@ -45,11 +45,11 @@ Generación de ideas:
 
 
    Argumento: 
+   
+   Herramientas: Animación (hippani animator) 
+   Producción: Guión, Fotografías, 
+   
     
-
-		[Website]()
-		Chatbot: @XXXX (t.me/@granadasonora_bot)
-		![Imagen]()
 
 
 ![Proy2](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy2.JPG)
