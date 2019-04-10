@@ -41,8 +41,10 @@ Generación de ideas:
 
 #2 -  Videojuego
 ========================================
-		Autores: 
-    Argumento: 
+* :octocat: [Albercon the Game](https://github.com/Dvdcillo/PeriodismoMultimedia/blob/master/README.md)
+
+
+   Argumento: 
     
 
 		[Website]()
