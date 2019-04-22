@@ -25,16 +25,9 @@ Generación de ideas:
 
 *   :octocat: [Los Hermanos Quero](https://github.com/andreafallen95/PeriodismoMultimedia/blob/master/README.md)
 
-	Autores: 
-    	Argumento: 
-    	DIRIGIDO A: Generación Z
-    	Experiencia: Hibrida Real/Periodico online
-
-		[Website]()
-		Chatbot: @XXXX (t.me/@granadasonora_bot)
-		![Imagen]()
-		
-  :octocat:  
+* Autores: Julia Calvache, Andrea, Mª Carmen Rodriguez
+* DIRIGIDO A: Generación Z
+* Experiencia: Hibrida Real/Periodico online	
 		
 ![Proy1](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy1.JPG)
 
