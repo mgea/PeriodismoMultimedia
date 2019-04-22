@@ -43,14 +43,7 @@ Generación de ideas:
 ========================================
 * :octocat: [Albercon the Game](https://github.com/Dvdcillo/PeriodismoMultimedia/blob/master/README.md)
 
-
-   Argumento: 
-   
-   Herramientas: Animación (hippani animator) 
-   Producción: Guión, Fotografías, 
-   
-    
-
+ 
 
 ![Proy2](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy2.JPG)
 
@@ -60,45 +53,30 @@ Generación de ideas:
 
 * [Viajeras Revolucionarias](https://github.com/MariJose13/ViajerasRevolucionarias) 
 
-Autores: 
-    Argumento: 
+* Autores: Mª José Caballero, Fco Jesus, Mágina Cruz, Carmen Pérez
+
     
-
-		[Website]()
-		Chatbot: @XXXX(t.me/@granadasonora_bot)
-		![Imagen]()
-
+		
 		
 ![Proy3](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy3.JPG)
 
 
-#4 - 
+#4 - CyberBulling
 ========================================
-		Autores: 
-    Argumento: 
-    
-
-		[Website]()
-		Chatbot: @XXXX(t.me/@granadasonora_bot)
-		![Imagen]()
-
-
-  :octocat:  
+* Autores: Adriana Bayona, Encarnación Jimenez
+ 
+* :octocat:  
 		
 ![Proy4](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy4.JPG)
 
 
 #5 - Gastroturismo
 ========================================
-		Autores: 
-    Argumento: 
-    
+* Autores: Lucía Romero, Ariadna, Paul
 
-		Herramientas: @Manybot
-		Chatbot: @XXXX(t.me/@granadasonora_bot)
-		![Imagen]()
+* Argumento:     
+* :octocat: ![Proy5](https://github.com/luciarcanton/PeriodismoMultimedia)	
 
-	
 ![Proy5](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy5.JPG)
 
 
