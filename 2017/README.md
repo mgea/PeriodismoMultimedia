@@ -29,7 +29,7 @@ Autores: Rebeca García Ocaña, Eva Nicolás Alcaraz, Marta Pichardo Escudero, L
 
 [Presentación del proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/Anda_jaleo.pdf) 
 
-## Proyecto #EncuentraTuChurro
+## Proyecto #2 EncuentraTuChurro
 
 Autores: López Lozano, Andrea; Mesa Cabello, Luis; Núñez Navas, Pablo; Torres García, María
 
@@ -59,6 +59,8 @@ ACTIVIDAD:
 
 
 
-
+## Proyecto #3 Granada y Olé
  
+ 
+ [Memoria proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/Granada_y_Ole.pdf)
 
