@@ -2,14 +2,10 @@
 
 Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Multiplataforma
 
-[Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/)  
-
-Aquí podeis ver el [cartel original de esta primera edición](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Cartel_Nuevos%20medios%20Interactivos.pdf) 
-
+[Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/). Este fue el[cartel original de esta primera edición](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Cartel_Nuevos%20medios%20Interactivos.pdf) 
 ![Cartel Master](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/CartelNMI2015-16.png)
 
-Resumen de las actividades realizadas en el curso 
-
+Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y proyectos por parte de los estudiantes de la asignatura. Aquí podemos ver un resumen de las actividades más destacadas del curso 
 
 
 ---
@@ -27,6 +23,8 @@ Resumen de las actividades realizadas en el curso
 
 
 - [Proyecto del 2019](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/readme.md) 
+
+- [Trabajos fin de Máster / TFM](https://github.com/mgea/PeriodismoMultimedia/blob/master/TFM/readme.md)
 
 ---
 
