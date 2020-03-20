@@ -15,7 +15,7 @@ Generación de ideas:
 ## #1 Rumbos de Cine
   Autores: Daniel Jesús Andana González & Jorge Fernández Ávila
 
-Dar a conocer los parajes nacionales desde las películas que se han rodado
+**Objetivo**: Dar a conocer los parajes nacionales desde las películas que se han rodado
 en la península ibérica.
 
 * Twitter – Usamos el hashtag general #RumbosalFilm para promocionar el contenido. Este perfil aúna todo el trabajo realizado. Hay hashtags individuales según la ruta que estamos promocionando.
@@ -35,9 +35,10 @@ https://twitter.com/RumbosdeCine/status/727871530428993536
 ## #2 Rutas de Senderismo y talleres de fotografía nocturna
 Autores: Juan Gómez Becerra & Miguel Antonio Rodríguez Cardenas
 
-Objetivo: Elaborar una plataforma para compartir rutas, consejos, e impartir talleres sobre fotografía nocturna en diversas rutas de senderismo.
+**Objetivo**: Elaborar una plataforma para compartir rutas, consejos, e impartir talleres sobre fotografía nocturna en diversas rutas de senderismo.
 
-Planteamiento: 
+**Planteamiento: **
+
 * Lista: 10 fotos para inspirarte en la fotografía nocturna.
 * Lista: 5 rutas que debes hacer, si todavía no las has completado.
 * e-magazine en Flipboard #FotoRutate
@@ -48,9 +49,10 @@ Planteamiento:
 
 ## #3 #Bareate
 
-Helena de la Casa Huertas Hernández y María García Ruiz
+Autores: Helena de la Casa Huertas Hernández y María García Ruiz
 
-Objetivo: Cambiar la experiencia de los clientes de un bar para convertirla en una experiencia interactiva ofreciendo contenidos extras a través de diferentes plataformas.
+**Objetivo:** Cambiar la experiencia de los clientes de un bar para convertirla en una experiencia interactiva ofreciendo contenidos extras a través de diferentes plataformas.
+
 Actividad: Para la realización de la propuesta hemos utilizado las siguientes herramientas:
 - Padlet: Para la organización de ideas
 - Symbaloo: Para tener un escritorio personalizado con todas las herramientas
@@ -67,6 +69,30 @@ http://www.genial.ly/View/Index/570e7aec1561e809b8d831e1
 
 
 ## #4 SERIEFILIA
-CC Pedro Gómez Martínez & Francisco Javier Justicia Martínez
+Autores:  Pedro Gómez Martínez & Francisco Javier Justicia Martínez
 
-OBJETIVO: Crear un medio independiente online que sea capaz de realizar una cobertura diaria sobre series de televisión mundial. El medio se basará en la creación de contenidos y apartados propios que sean capaces de cubrir vacios de información o al menos complementarlos. La información será de series concretas, actores, productoras, cadenas, etc. Por otro lado también realizará una función de curación de contenidos ya que también difundiremos informaciones y enlaces de interés de otros medios relacionados con nuestra temática, así como vídeos y fragmentos de algunos momentos claves de series, entrevistas o reportajes. Como un objetivo a largo plazo estará el de crear y fomentar un espacio de debate sobre las distintas producciones a través de YouTube y especialmente las redes sociales mediante el hashtag #Seriefilia
+**OBJETIVO**: Crear un medio independiente online que sea capaz de realizar una cobertura diaria sobre series de televisión mundial. El medio se basará en la creación de contenidos y apartados propios que sean capaces de cubrir vacios de información o al menos complementarlos. La información será de series concretas, actores, productoras, cadenas, etc. Por otro lado también realizará una función de curación de contenidos ya que también difundiremos informaciones y enlaces de interés de otros medios relacionados con nuestra temática, así como vídeos y fragmentos de algunos momentos claves de series, entrevistas o reportajes. Como un objetivo a largo plazo estará el de crear y fomentar un espacio de debate sobre las distintas producciones a través de YouTube y especialmente las redes sociales mediante el hashtag #Seriefilia
+
+
+* Padlet: Esencial para crear una experiencia compartida con el usuario: enlaces, concursos, debates, encuestas, participación activa... http://padlet.com/franciscojmanime/n85u4nj6dr2t
+* REDES SOCIALES https://www.instagram.com/seriefiliasite/ 
+* Hashtag principal #Seriefilia | Hashtag secundarios – temas concretos #FenómenoPerdidos #EstiloSailorMoon ...
+* LIST.LY http://list.ly/list/167T-las-10-series-de-misterio- que-no-puedes-perderte  para Curación de contenidos y recomendaciones
+* APP Inventor (Aplicación para jugar a elegir distintas canciones de series) 
+* GENIAL.LY Presentación del proyecto. http://www.genial.ly/View/Index/ 5729fe9532d08c23c0d8db68
+* WordPress, Auna todos los contenidos del proyecto https://seriefiliasite.wordpress.com/
+* FLIPBOARD: Curación de contenidos y actualización informativa  https://flipboard.com/@littlemiradas/littlemiradas- qgeh4v2cy
+* GWD. Banner de Seriefilia: http://utopolis.ugr.es/media/seriefilia/banner/ SERIEFILIA.html
+  
+ACTIV#9
+HTML
+Página principal del especial ‘Pequeñas
+Mentirosas’
+http://utopolis.ugr.es/media/seriefilia/f/f.html
+ 
+ACTIV#10
+CANVA
+Infografía de Sailor Moon
+https://seriefiliasite.wordpress.com/2016/05/03/asi-ha- evolucionado-el-estilo-de-sailor-moon/
+
+
