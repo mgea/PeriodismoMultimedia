@@ -1,8 +1,16 @@
-### PeriodismoMultimedia 2019
+### PeriodismoMultimedia 
 
 Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Multiplataforma
 
 [Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/)  
+
+Aquí podeis ver el [cartel original de esta primera edición](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Cartel_Nuevos%20medios%20Interactivos.pdf) 
+
+![Cartel Master](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/CartelNMI2015-16.png)
+
+Resumen de las actividades realizadas en el curso 
+
+
 
 ---
 
