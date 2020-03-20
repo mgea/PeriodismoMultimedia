@@ -1,10 +1,10 @@
 
-# PeriodismoMultimedia 2015/16 (1ª edición del Master)
+# PeriodismoMultimedia 2015/16 
 
 
-Proyectos que se van a desarrollar 
+Proyectos que se van a desarrollar en esta 1ª edición del Master
 
-Generación de ideas: 
+Proceso de generación de ideas: 
 
 * Temáticas
 
