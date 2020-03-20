@@ -6,7 +6,10 @@ Proyectos que se van a desarrollar en esta 1ª edición del Master
 
 Proceso de generación de ideas: 
 
-* Temáticas
+* Temáticas: Proceso de ideación 
+
+
+![lluvia de ideas](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Ideacion01.png)
 
 
 
