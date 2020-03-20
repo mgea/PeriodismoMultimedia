@@ -26,6 +26,8 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 - [Trabajos fin de Máster / TFM](https://github.com/mgea/PeriodismoMultimedia/blob/master/TFM/readme.md)
 
+- [Repositorio con plantilla para crear ficha de proyecto](https://github.com/mgea/PeriodismoMultimedia_Template)
+
 ---
 
 Inspiración
