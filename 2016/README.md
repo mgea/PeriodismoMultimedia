@@ -2,7 +2,7 @@
 # PeriodismoMultimedia 2015/16 
 
 
-Proyectos que se van a desarrollar en esta 1ª edición del Master
+Proyectos que se van a desarrollar en la asignatura dentro de la [1ª edición del Master](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Cartel_Nuevos%20medios%20Interactivos.pdf)
 
 Proceso de generación de ideas: 
 
