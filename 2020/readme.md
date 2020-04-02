@@ -2,11 +2,21 @@
 
 Proyectos propuestos en el curso 2019-20 
 
-https://github.com/mgea/PeriodismoMultimedia_Template/network/members
+
+
+Proceso creativo
+
+- Ideación mediante tablero Trello
+
+- Uso de GitHub como plataforma de publicación
+
+  https://github.com/mgea/PeriodismoMultimedia_Template/network/members
 
 
 
-###1 Curiosidades de la producción de la trilogía original de Star Wars
+
+
+### 1 Curiosidades de la producción de la trilogía original de Star Wars
 
 
 *   :octocat: https://github.com/97jesu/PeriodismoMultimedia_Jesus
@@ -108,3 +118,8 @@ https://github.com/AgnieszkaBroda/PeriodismoMultimedia_Template
 Autor: [RaquelMoyaMart](https://github.com/RaquelMoyaMart)
 
 https://github.com/RaquelMoyaMart/PeriodismoMultimedia_Template
+
+
+
+
+---- 
