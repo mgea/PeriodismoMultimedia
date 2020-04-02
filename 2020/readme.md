@@ -6,7 +6,7 @@ https://github.com/mgea/PeriodismoMultimedia_Template/network/members
 
 
 
-###1 Curiosidades de la producción de la trilogía original de Star Wars
+### 1 Curiosidades de la producción de la trilogía original de Star Wars
 
 
 *   :octocat: https://github.com/97jesu/PeriodismoMultimedia_Jesus
