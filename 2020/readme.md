@@ -96,27 +96,10 @@ https://www.youtube.com/kyroatelerix
 
 
 
-
-------
-
-### 8 Mi Querencia 
-
-* :octocat: https://github.com/patriciacfs/mi_querencia_proyecto
-* Autor: Patricia C. Fernández Schrunder
-
-* **Cita** : *La búsqueda de nuestra herencia*
-* 
-
-
-
 -----
 
 
-
-
-
-
-### Pendientes: 
+### Pendientes/en proceso: 
 
 Autor: [AgnieszkaBroda](https://github.com/AgnieszkaBroda)
 
