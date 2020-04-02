@@ -4,9 +4,9 @@ Proyectos propuestos en el curso 2019-20
 
 
 
-Proceso creativo
+**Proceso creativo**
 
-- Ideación mediante tablero Trello
+- Ideación mediante tablero Trello (https://trello.com/b/3YjvDccp/proyectomultimedia) 
 
 - Uso de GitHub como plataforma de publicación
 
