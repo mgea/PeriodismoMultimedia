@@ -24,6 +24,9 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 - [Proyecto del 2019](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/readme.md) 
 
+- [Proyecto del 2019](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/readme.md) 
+
+
 - [Trabajos fin de Máster / TFM](https://github.com/mgea/PeriodismoMultimedia/blob/master/TFM/readme.md)
 
 - [Repositorio con plantilla para crear ficha de proyecto](https://github.com/mgea/PeriodismoMultimedia_Template)
@@ -43,6 +46,11 @@ Proyectos:
 - [MuseMap Street Art App — UX Case Study](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
 
 - 
+
+Herramientas: 
+
+- [Trello](https://trello.com/b/3YjvDccp/proyectomultimedia)
+
 
 
 HTML5 
