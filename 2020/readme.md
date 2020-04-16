@@ -66,6 +66,7 @@ Proyectos propuestos en el curso 2019-20
 
 ![PodencoTour](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/podencotour_logo.png)
 
+
 Instagram
 
 https://www.instagram.com/podencotour/
@@ -83,6 +84,7 @@ Youtube (aquí se subirá trailer promocional o introducción, es una cuenta de 
 https://www.youtube.com/kyroatelerix
 
 
+Presentacion: https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/view
 
 ---
 
