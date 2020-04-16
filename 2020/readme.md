@@ -15,57 +15,10 @@ Proyectos propuestos en el curso 2019-20
 
 
 
-
-### 1 Curiosidades de la producción de la trilogía original de Star Wars
-
-
-*   :octocat: https://github.com/97jesu/PeriodismoMultimedia_Jesus
-*   Autor: Jesús Hoyos
-*   DIRIGIDO A: Generación Z
-*   Experiencia: 	
-
-
-
----
-
-### 2 Paso a paso en la elaboración de la cosmética natural
-
-* :octocat: https://github.com/Carolinadv/PeriodismoMultimedia_Template
-* Autor: Carolina Díaz Vargas
-
-
-
----
-
-### 3 Oficios perdidos
-
-* :octocat: https://github.com/franciscalara/PeriodismoMultimedia_Template
-* Autor: Francisca Lara 
-
-
-
----
-
-### 4 La otra versión
-
-* :octocat:https://github.com/lauragomeezp/PeriodismoMultimedia_Template
-* Autor: Laura Gómez 
-
-
-
----
-
-### 5 Podenco Tour 
+### 1 Podenco Tour 
 
 * :octocat: https://github.com/KyroAtelerix/Podenco-Tour
 * Autor: Carlos Rodríguez Urra
-
-* Logotipo:
-
-  ![podenco](https://drive.google.com/file/d/1uWYWKameQLuHtwQuTAaTw9ZFfYuNz3s4/view)
-
-![PodencoTour](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/podencotour_logo.png)
-
 
 Instagram
 
@@ -88,40 +41,125 @@ Presentacion: https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/
 
 ---
 
-### 6 Mi Querencia 
+### 2 Mi Querencia 
 
 * :octocat:https://github.com/patriciacfs/mi_querencia_proyecto
 * Autor: Patricia C. Fernández Schrunder
 
 * Logotipo:
 
-
-
 -----
 
-### 7 Mementos
+
+### 3 Paso a paso en la elaboración de la cosmética natural
+
+* :octocat: https://github.com/Carolinadv/PeriodismoMultimedia_Template
+* Autor: Carolina Díaz Vargas
+
+
+---
+
+### 4 Mementos
 
 * :octocat: https://github.com/pjarpa/PeriodismoMultimedia_PJarpa
 * Autor: Patricia Jarpa Candia
 * **Cita**: Mementos, recuerdos digitales para el futuro.
 
+---
+
+
+### 5 Locsical
+
+* :octocat: https://github.com/fsosa97/PeriodismoMultimedia_Template
+* Autor: Fabián Sosa
+* **Cita**: Descubre la música
+
+---
+
+
+### 6 La otra versión
+
+* :octocat:https://github.com/lauragomeezp/PeriodismoMultimedia_Template
+* Autor: Laura Gómez 
+
+---
+
+
+### 7 PUNK
+
+* :octocat:https://github.com/Candelamtzr/PeriodismoMultimedia_Template.  ¿?
+* Autor: Candela Martínez
+
+
+---
+
+
+### 8 Oficios perdidos
+
+* :octocat: https://github.com/franciscalara/PeriodismoMultimedia_Template
+* Autor: Francisca Lara 
+
+
+---
+
+
+### 9 Mujeres silenciadas
+
+* :octocat: https://github.com/AgnieszkaBroda/PeriodismoMultimedia_Template
+
+Autor: [AgnieszkaBroda](https://github.com/AgnieszkaBroda)
+
+
+
+### 10 Edeportes
+
+* :octocat: https://github.com/deco88/PeriodismoMultimedia_Template
+
+Autor: Diego González 
+
+Slogan: Un programa para gamers
+
+Hashtag #Edeportes #EdeportesTV
+
+
+
+### 11 Curiosidades de la producción de la trilogía original de Star Wars
+
+
+*   :octocat: https://github.com/97jesu/PeriodismoMultimedia_Jesus
+
+*   Autor: Jesús Hoyos
+
+*   DIRIGIDO A: Generación Z
+
+
+
+---
+
+
+### 12 meTOC
+
+* :octocat: https://github.com/RaquelMoyaMart/PeriodismoMultimedia_Template
+
+* Autor: [RaquelMoyaMart](https://github.com/RaquelMoyaMart) 
+
+* **Cita**: La lucha más dura es contra tu mente / No es una manía más
 
 
 
 -----
 
 
-### Pendientes/en proceso: 
 
-Autor: [AgnieszkaBroda](https://github.com/AgnieszkaBroda)
+### 13  la vuelta a Bayfront Park
 
-https://github.com/AgnieszkaBroda/PeriodismoMultimedia_Template
+* :octocat: https://github.com/sergiogr97/PeriodismoMultimedia_Template
 
-Autor: [RaquelMoyaMart](https://github.com/RaquelMoyaMart)
+* Autor: Sergio García Rubio
 
-https://github.com/RaquelMoyaMart/PeriodismoMultimedia_Template
-
+* **Cita**: Lo has escuchado, ¿pero sabes dónde comenzó?
 
 
 
----- 
+
+
