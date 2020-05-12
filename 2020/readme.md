@@ -95,7 +95,7 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * Web : http://culturestrikesback.wixsite.com/website
 * List: https://view.genial.ly/5e95c20836fb330dff3a431d/learning-experience-challenges-genially-sin-titulo
 
-
+![DocPunck3](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/Logo_DocPunk3.jpg)
 
 ---
 
@@ -111,9 +111,13 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 
 ### 9 Mujeres silenciadas
 
-* :octocat: https://github.com/AgnieszkaBroda/PeriodismoMultimedia_Template
+* :octocat: https://github.com/AgnieszkaBroda/MujeresSilenciadas
 
 Autor: [AgnieszkaBroda](https://github.com/AgnieszkaBroda)
+Cita: 
+* Twitter: https://twitter.com/MujeresSilenci1
+* Web https://mujeressilenciadas.wixsite.com/mujeressilenciadas1 
+
 
 
 
