@@ -29,8 +29,6 @@ Twitter: https://twitter.com/poncopodenco
 
 Youtube (trailer promocional o introducción, es una cuenta de mi marca personal) https://www.youtube.com/kyroatelerix
 
-![Mementos](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/Logo_Mementos.png)
-
 
 ---
 
@@ -61,6 +59,7 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * **Cita**: Mementos, recuerdos digitales para el futuro.
 * Web, logo y Video promocional: https://pjarpa.github.io
 
+![Mementos](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/Logo_Mementos.png)
 
 ---
 
