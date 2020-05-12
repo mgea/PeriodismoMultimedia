@@ -69,22 +69,31 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * :octocat: https://github.com/fsosa97/PeriodismoMultimedia_Template
 * Autor: Fabián Sosa
 * **Cita**: Descubre la música
+* Interactivo de playlist: https://view.genial.ly/5e8f5c64124be30da51547c8/interactive-image-mapa-locsical 
+* Web: https://fabiansosa1997.wixsite.com/misitio-2/blog
+
+
 
 ---
 
 
 ### 6 La otra versión
 
-* :octocat:https://github.com/lauragomeezp/PeriodismoMultimedia_Template
+* :octocat:https://github.com/lauragomeezp/La-otra-versi-n-del-cuento-
 * Autor: Laura Gómez 
+* Twitter: https://twitter.com/versiondisney
+* Website: https://nosonvillanos.wixsite.com/lauragomez 
 
 ---
 
 
-### 7 PUNK
+### 7 CULTURE STRIKES BACK
 
 * :octocat:https://github.com/Candelamtzr/PeriodismoMultimedia_Template.  ¿?
 * Autor: Candela Martínez
+* Cita: historia del Punk
+* Web : http://culturestrikesback.wixsite.com/website
+* List: https://view.genial.ly/5e95c20836fb330dff3a431d/learning-experience-challenges-genially-sin-titulo
 
 
 ---
