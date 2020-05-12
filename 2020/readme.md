@@ -29,6 +29,7 @@ Twitter: https://twitter.com/poncopodenco
 
 Youtube (trailer promocional o introducción, es una cuenta de mi marca personal) https://www.youtube.com/kyroatelerix
 
+![Mementos](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/Logo_Mementos.png)
 
 
 ---
@@ -130,6 +131,8 @@ Autor: Diego González
 Slogan: Un programa para gamers
 
 Hashtag #Edeportes #EdeportesTV
+
+![eDeportes](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/esdes.png)
 
 
 
