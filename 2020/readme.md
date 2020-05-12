@@ -87,13 +87,14 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 ---
 
 
-### 7 CULTURE STRIKES BACK
+### 7 Culture Strikes Back
 
 * :octocat:https://github.com/Candelamtzr/PeriodismoMultimedia_Template.  ¿?
 * Autor: Candela Martínez
 * Cita: historia del Punk
 * Web : http://culturestrikesback.wixsite.com/website
 * List: https://view.genial.ly/5e95c20836fb330dff3a431d/learning-experience-challenges-genially-sin-titulo
+
 
 
 ---
