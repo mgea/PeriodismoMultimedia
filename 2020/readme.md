@@ -58,8 +58,7 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * :octocat: https://github.com/pjarpa/PeriodismoMultimedia_PJarpa
 * Autor: Patricia Jarpa Candia
 * **Cita**: Mementos, recuerdos digitales para el futuro.
-* Video promocional: https://github.com/pjarpa/mementos/blob/master/videos/mementos.mp4
-
+* Web, logo y Video promocional: https://pjarpa.github.io
 
 
 ---
