@@ -130,9 +130,12 @@ Autor: Diego González
 
 Slogan: Un programa para gamers
 
-Hashtag #Edeportes #EdeportesTV
+* Hashtag #Edeportes #EdeportesTV
+* Twitter: https://twitter.com/edeportes_
+* Twitch: https://www.twitch.tv/edeportestv/
+* Canal Youtube: https://www.youtube.com/channel/UCh9d5SMnDAGED5HjdnJIV5A
 
-![eDeportes](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/esdes.png)
+![eDeportes](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/edes.png)
 
 
 
@@ -145,7 +148,10 @@ Hashtag #Edeportes #EdeportesTV
 
 *   DIRIGIDO A: Generación Z
 
+* Twitter: https://twitter.com/Jesuu97/status/1250484898361683970
+* Web: https://jesuu97rm.wixsite.com/curiosidadesstarwars
 
+![StarWars](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/starwar.png)
 
 ---
 
