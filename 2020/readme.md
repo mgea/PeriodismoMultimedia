@@ -35,18 +35,20 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 
 ### 2 Mi Querencia 
 
-* :octocat:https://github.com/patriciacfs/mi_querencia_proyecto
+* :octocat:https://github.com/patriciacfs/mi_querencia_proyecto/blob/master/MiQuerencia.md
 * Autor: Patricia C. Fernández Schrunder
+* Logotipo/Slogan: La búsqueda de nuestra herencia
+* Web prototipo: https://patriciacfernandezs.wixsite.com/miquerencia
 
-* Logotipo:
 
 -----
 
 
 ### 3 Paso a paso en la elaboración de la cosmética natural
 
-* :octocat: https://github.com/Carolinadv/PeriodismoMultimedia_Template
+* :octocat: https://github.com/Carolinadv/Lavidadetuscosmeticos
 * Autor: Carolina Díaz Vargas
+
 
 
 ---
@@ -56,6 +58,9 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * :octocat: https://github.com/pjarpa/PeriodismoMultimedia_PJarpa
 * Autor: Patricia Jarpa Candia
 * **Cita**: Mementos, recuerdos digitales para el futuro.
+* Video promocional: https://github.com/pjarpa/mementos/blob/master/videos/mementos.mp4
+
+
 
 ---
 
