@@ -19,8 +19,7 @@ Proyectos propuestos en el curso 2019-20
 
 * :octocat: https://github.com/KyroAtelerix/Podenco-Tour
 * Autor: Carlos Rodríguez Urra
-
-* Presentación proyecto: https://www.youtube.com/watch?v=vUyEVNlbxTQ 
+* Presentacion: https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/view
 
 Instagram: https://www.instagram.com/podencotour/
 
@@ -30,7 +29,7 @@ Twitter: https://twitter.com/poncopodenco
 
 Youtube (trailer promocional o introducción, es una cuenta de mi marca personal) https://www.youtube.com/kyroatelerix
 
-Presentacion: https://drive.google.com/file/d/1s70xGJyQAfx7emyyemjWylJllgjzZQT2/view
+
 
 ---
 
