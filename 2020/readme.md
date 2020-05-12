@@ -115,12 +115,11 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * :octocat: https://github.com/AgnieszkaBroda/MujeresSilenciadas
 
 Autor: [AgnieszkaBroda](https://github.com/AgnieszkaBroda)
-Cita: 
+
 * Twitter: https://twitter.com/MujeresSilenci1
 * Web https://mujeressilenciadas.wixsite.com/mujeressilenciadas1 
 
-
-
+-----
 
 ### 10 Edeportes
 
@@ -138,14 +137,13 @@ Slogan: Un programa para gamers
 ![eDeportes](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/edes.png)
 
 
+-----
 
 ### 11 Curiosidades de la producción de la trilogía original de Star Wars
 
 
 *   :octocat: https://github.com/97jesu/PeriodismoMultimedia_Jesus
-
 *   Autor: Jesús Hoyos
-
 *   DIRIGIDO A: Generación Z
 
 * Twitter: https://twitter.com/Jesuu97/status/1250484898361683970
@@ -178,15 +176,20 @@ Slogan: Un programa para gamers
 
 * **Cita**: Lo has escuchado, ¿pero sabes dónde comenzó?
 
-
+----
 
 ### 14  Mujer en guerra
 
 * :octocat: https://github.com/SaraMarGarc/Mujer-en-guerra
 
 * Autor: Sara Martín García
-
 * **Cita**: Esto va por todas vosotras
+* Web: https://mujerenguerra.wixsite.com/mujer-en-guerra
+* Twitter: https://twitter.com/GuerraMujer
+
+
+
+------
 
 
 
