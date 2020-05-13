@@ -12,6 +12,9 @@ Proyectos propuestos en el curso 2019-20
 
   https://github.com/mgea/PeriodismoMultimedia_Template/network/members
 
+- Web presentacion interactiva: http://utopolis.ugr.es/media/master20/
+
+
 
 ----
 
@@ -198,5 +201,4 @@ Slogan: Un programa para gamers
 
 * Autor: Ana Belén Díez González
 * Youtube https://www.youtube.com/watch?v=zlluXpJ57Eo 
-
 
