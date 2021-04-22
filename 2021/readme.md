@@ -21,15 +21,16 @@ Proyectos propuestos en el curso 2020-21
 
 ### 1  
 
-* :octocat: 
-* Autor: 
+* **Yermolov**
+* :octocat: https://github.com/nuriagarciam/Yermolov
+* Autor: Nuria García
 * Presentacion: 
 
 ---
 
 ### 2  
 
-* Proyecto Ayden 
+* **Proyecto Ayden** 
 * :octocat: https://github.com/afdc98/Ayden-Curso-20-21-
 * Autor: Pablo Avilés
 * Presentacion: 
@@ -37,12 +38,63 @@ Proyectos propuestos en el curso 2020-21
 ---
 
 
-### 1  
+### 3  
+
+* :octocat: https://github.com/paulapquintana/Gamificazion_Didactica_Bulos
+* Autor: Paula P. Quintana
+* Presentacion: 
+
+---
+
+
+
+### 4  
+
+* **Los cuentos de Sairik** 
+* :octocat: https://github.com/carlarvero/Los-cuentos-de-Sairik
+* Autor: Carla Rivero 
+* Presentacion: 
+
+---
+
+### 5  
+
+**Flamenco Made in Grana** 
+* :octocat: https://github.com/DesiMilena/FlamencoMadeinGrana
+* Autor: Desiree Milena
+* Presentacion: 
+
+---
+
+### 6  
+
+* **Proyecto acido**
+* :octocat: https://github.com/AlbertCzech/Proyecto-acido
+* Autor: Alberto Aijon
+* Presentacion: 
+
+---
+
+
+### 7  
+
+**Secretos-de-Ciudad**
+* :octocat: https://github.com/MLuisa13/Secretos-de-Ciudad 
+* Autor: María Luisa Avilés
+* Presentacion: 
+
+---
+
+### 8  
+
 
 * :octocat: 
 * Autor: 
 * Presentacion: 
 
 ---
+
+
+
 
 
