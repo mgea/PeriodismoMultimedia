@@ -22,6 +22,7 @@ Proyectos propuestos en el curso 2020-21
 ### 1  Yermolov
 * :octocat: https://github.com/nuriagarciam/Yermolov
 * Autor: Nuria García
+* Autor: Esperanza Durán 
 * Presentacion: 
 
 ---
