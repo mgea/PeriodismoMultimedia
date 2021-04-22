@@ -36,7 +36,7 @@ Proyectos propuestos en el curso 2020-21
 ---
 
 
-### 3  Gamificación didáctica de los bulos
+### 3  No más bulos
 
 * :octocat: https://github.com/paulapquintana/Gamificazion_Didactica_Bulos
 * Autor: Paula P. Quintana
