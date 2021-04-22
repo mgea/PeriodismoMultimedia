@@ -25,6 +25,7 @@ Proyectos propuestos en el curso 2020-21
 * Autor: Esperanza Durán 
 * Presentacion: 
 
+  Prototpie / 
   
 
 ---
@@ -35,6 +36,9 @@ Proyectos propuestos en el curso 2020-21
 * Autor: Pablo Avilés
 * Presentacion: 
 
+  rgp maker, 
+
+
 ---
 
 
@@ -43,6 +47,8 @@ Proyectos propuestos en el curso 2020-21
 * :octocat: https://github.com/paulapquintana/Gamificazion_Didactica_Bulos
 * Autor: Paula P. Quintana
 * Presentacion: 
+
+  H5P
 
 ---
 
@@ -53,6 +59,8 @@ Proyectos propuestos en el curso 2020-21
 * Autor: Carla Rivero 
 * Presentacion: 
 
+   (Protopie)
+
 ---
 
 ### 5  Flamenco Made in Grana
@@ -60,12 +68,16 @@ Proyectos propuestos en el curso 2020-21
 * Autor: Desiree Milena
 * Presentacion: 
 
+  (protopie , QR/AR, foto enviar por RRSS #foros ) 
+
 ---
 
 ### 6  Proyecto acido
 * :octocat: https://github.com/AlbertCzech/Proyecto-acido
 * Autor: Alberto Aijon
 * Presentacion: 
+
+  (twine / 
 
 ---
 
@@ -75,6 +87,8 @@ Proyectos propuestos en el curso 2020-21
 * Autor: María Luisa Avilés
 * Presentacion: 
 
+ (protopie)
+ 
 ---
 
 ### 8  Pociones Piruja
@@ -84,10 +98,12 @@ Proyectos propuestos en el curso 2020-21
 * Autora: Carolina BUitrago
 * Presentacion: 
 
+ (renpy, protopie, twinery9 
+
 ---
 
 
-### 9  La crisis hídrida 
+### 9  La crisis hídrica 
 
 
 * :octocat: 
