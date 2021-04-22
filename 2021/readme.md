@@ -78,17 +78,18 @@ Proyectos propuestos en el curso 2020-21
 ### 8  Pociones Piruja
 
 * :octocat: 
-* Autor: Andrea Fernandez
+* Autora: Andrea Fernandez
+* Autora: Carolina BUitrago
 * Presentacion: 
 
 ---
 
 
-### 9  
+### 9  La crisis hídrida 
 
 
 * :octocat: 
-* Autor: 
+* Autor: Beatriz Belen Costa
 * Presentacion: 
 
 ---
