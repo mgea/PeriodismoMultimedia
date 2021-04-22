@@ -77,7 +77,7 @@ Proyectos propuestos en el curso 2020-21
 
 ### 8  Pociones Piruja
 
-* :octocat: 
+* :octocat: https://github.com/andreafernandez9898/PeriodismoMultimedia_Template
 * Autora: Andrea Fernandez
 * Autora: Carolina BUitrago
 * Presentacion: 
