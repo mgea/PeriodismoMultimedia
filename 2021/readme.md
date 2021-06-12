@@ -20,8 +20,8 @@ Proyectos propuestos en el curso 2020-21
 
 
 ### 1  Yermolov
-* :octocat: https://github.com/nuriagarciam/Yermolov
 * Autor: Nuria García
+* :octocat: https://github.com/nuriagarciam/Yermolov
 * Autor: Esperanza Durán 
 * Presentacion: 
 
@@ -32,11 +32,13 @@ Proyectos propuestos en el curso 2020-21
 
 ### 2  Proyecto Ayden
 
-* :octocat: https://github.com/afdc98/Ayden-Curso-20-21-
 * Autor: Pablo Avilés
+* :octocat: https://github.com/afdc98/Ayden-Curso-20-21-
 * Presentacion: 
+![Ayden](https://user-images.githubusercontent.com/20681504/115731998-e2728300-a387-11eb-9a78-6af3184c8de9.png) 
 
-  rgp maker, 
+* Proyecto de juego con RPG Maker : https://afdc98.itch.io/ayden
+
 
 
 ---
@@ -80,7 +82,7 @@ Proyectos propuestos en el curso 2020-21
 
 ![Portada](https://github.com/AlbertCzech/Proyecto-acido/blob/master/banner.jpg)
 
-Novela Visual : https://utopolis.ugr.es/media/HRUN/U/Acido/
+Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 
 
   (twine / 
