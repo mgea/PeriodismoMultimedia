@@ -25,7 +25,10 @@ Proyectos propuestos en el curso 2020-21
 * Autor: Esperanza Durán 
 * Presentacion: 
 
-  Prototpie / 
+![Yermolov](https://user-images.githubusercontent.com/82604085/115734217-d12a7600-a389-11eb-9ca2-99b34b76f51d.png)
+  
+  
+* Mockup en Protopie: https://cloud.protopie.io/pr/b76737c8 
   
 
 ---
@@ -57,8 +60,9 @@ Proyectos propuestos en el curso 2020-21
 
 
 ### 4  Los cuentos de Sairik 
-* :octocat: https://github.com/carlarvero/Los-cuentos-de-Sairik
 * Autor: Carla Rivero 
+* :octocat: https://github.com/carlarvero/Los-cuentos-de-Sairik
+
 * Presentacion: 
 
    (Protopie)
@@ -66,11 +70,8 @@ Proyectos propuestos en el curso 2020-21
 ---
 
 ### 5  Flamenco Made in Grana
-* :octocat: https://github.com/DesiMilena/FlamencoMadeinGrana
 * Autor: Desiree Milena
-* Presentacion: 
-
-  (protopie , QR/AR, foto enviar por RRSS #foros ) 
+* :octocat: https://github.com/DesiMilena/FlamencoMadeinGrana 
 
 ---
 
@@ -93,10 +94,7 @@ Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 * :octocat: https://github.com/MLuisa13/Secretos-de-Ciudad 
 
 
-
 * Mockup en móvil con Prototpie: https://cloud.protopie.io/p/4dc421b734 
-
- (protopie)
  
 ---
 
@@ -106,9 +104,11 @@ Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 * Autora: Andrea Fernandez
 * Autora: Carolina BUitrago
 
-
 * Proyecto Twinery: https://pbs.twimg.com/media/Ez1IDLAWQAYqFh_?format=jpg&name=medium 
 * Presencia en RRSS: https://www.instagram.com/pocionespiruja/, https://twitter.com/Pociones_piruja 
+* Mockup en Protopie: https://cloud.protopie.io/p/e36dbdf5bc 
+
+
 
 
 
@@ -124,15 +124,6 @@ Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 
 ---
 
-
-### 10
-
-
-* :octocat: 
-* Autor: 
-* Presentacion: 
-
----
 
 
 
