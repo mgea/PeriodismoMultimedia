@@ -89,9 +89,12 @@ Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 
 
 ### 7  Secretos de Ciudad
-* :octocat: https://github.com/MLuisa13/Secretos-de-Ciudad 
 * Autor: María Luisa Avilés
-* Presentacion: 
+* :octocat: https://github.com/MLuisa13/Secretos-de-Ciudad 
+
+
+
+* Mockup en móvil con Prototpie: https://cloud.protopie.io/p/4dc421b734 
 
  (protopie)
  
@@ -102,9 +105,12 @@ Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 * :octocat: https://github.com/andreafernandez9898/PeriodismoMultimedia_Template
 * Autora: Andrea Fernandez
 * Autora: Carolina BUitrago
-* Presentacion: 
 
- (renpy, protopie, twinery9 
+
+* Proyecto Twinery: https://pbs.twimg.com/media/Ez1IDLAWQAYqFh_?format=jpg&name=medium 
+* Presencia en RRSS: https://www.instagram.com/pocionespiruja/, https://twitter.com/Pociones_piruja 
+
+
 
 ---
 
