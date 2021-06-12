@@ -76,6 +76,12 @@ Proyectos propuestos en el curso 2020-21
 * :octocat: https://github.com/AlbertCzech/Proyecto-acido
 * Autor: Alberto Aijon
 * Presentacion: 
+* Licencia CCBYNC4.0 
+
+![Portada](https://github.com/AlbertCzech/Proyecto-acido/blob/master/banner.jpg)
+
+Novela Visual : https://utopolis.ugr.es/media/HRUN/U/Acido/
+
 
   (twine / 
 
