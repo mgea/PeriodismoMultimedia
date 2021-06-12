@@ -65,6 +65,9 @@ Proyectos propuestos en el curso 2020-21
 
 ![Cuentos de Sairik](https://user-images.githubusercontent.com/83021781/116815383-8e248b80-ab5d-11eb-810a-9262cea1d9d5.png)
 
+* Wordpress: https://loscuentosdesairik.wordpress.com 
+* 
+
 ---
 
 ### 5  Flamenco Made in Grana
@@ -116,9 +119,9 @@ Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 ### 9  La crisis hídrica 
 
 
-* :octocat: 
 * Autor: Beatriz Belen Costa
-* Presentacion: 
+* :octocat: https://github.com/beacostar/PeriodismoMultimedia_Template
+* 
 
 ---
 
