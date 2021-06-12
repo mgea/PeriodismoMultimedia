@@ -63,9 +63,7 @@ Proyectos propuestos en el curso 2020-21
 * Autor: Carla Rivero 
 * :octocat: https://github.com/carlarvero/Los-cuentos-de-Sairik
 
-* Presentacion: 
-
-   (Protopie)
+![Cuentos de Sairik](https://user-images.githubusercontent.com/83021781/116815383-8e248b80-ab5d-11eb-810a-9262cea1d9d5.png)
 
 ---
 
