@@ -34,7 +34,7 @@ Proyectos propuestos en el curso 2020-21
 
 * Autor: Pablo Avilés
 * :octocat: https://github.com/afdc98/Ayden-Curso-20-21-
-* Presentacion: 
+
 ![Ayden](https://user-images.githubusercontent.com/20681504/115731998-e2728300-a387-11eb-9a78-6af3184c8de9.png) 
 
 * Proyecto de juego con RPG Maker : https://afdc98.itch.io/ayden
@@ -74,10 +74,9 @@ Proyectos propuestos en el curso 2020-21
 
 ---
 
-### 6  Proyecto acido
+### 6  Proyecto Ácido
 * :octocat: https://github.com/AlbertCzech/Proyecto-acido
-* Autor: Alberto Aijon
-* Presentacion: 
+* Autor: Alberto Aijon 
 * Licencia CCBYNC4.0 
 
 ![Portada](https://github.com/AlbertCzech/Proyecto-acido/blob/master/banner.jpg)
@@ -85,7 +84,6 @@ Proyectos propuestos en el curso 2020-21
 Novela Visual con RenP'y: https://utopolis.ugr.es/media/HRUN/U/Acido/
 
 
-  (twine / 
 
 ---
 
