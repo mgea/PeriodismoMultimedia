@@ -26,7 +26,7 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 - [Proyecto del 2020](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/readme.md)
 - [Proyectoss del 2021](https://github.com/mgea/PeriodismoMultimedia/blob/master/2021/readme.md)   
-
+- [Proyectoss del 2022](https://github.com/mgea/PeriodismoMultimedia/blob/master/2022/readme.md)   
 
 - [Trabajos fin de Máster / TFM](https://github.com/mgea/PeriodismoMultimedia/blob/master/TFM/readme.md)
 
