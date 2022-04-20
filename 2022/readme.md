@@ -10,6 +10,8 @@ Uso de GitHub como plataforma de publicación
 
 
 ### La música cofrade de Granada
+<img src="https://github.com/dariofdz97/Musica-cofrade-de-Granada_22/raw/master/Banner%20música%20cofrade%20Granadina%20(2).png" alt="logo" width="100"/>
+
 * Autor: Lucía María López Peñalver y Darío Fernández del Moral
 :octocat: https://github.com/dariofdz97/Musica-cofrade-de-Granada_22 
 
@@ -18,11 +20,15 @@ Uso de GitHub como plataforma de publicación
 :octocat: https://github.com/nahiamartinezgondra/CUANDO-FUERA-LLUEVE
 
 ### La muerte del campo Granadino
+
+
 * Autor: Natalia Ruiz Carmona, Sergio García Martos
 :octocat: https://github.com/naruar207/La-muerte-del-campo-granadino-22
 
 
 ### Latinoamericanas Olimpicas
+<img src="https://user-images.githubusercontent.com/56308067/160888051-84a22dc6-d674-4892-92f2-453e5fe52959.png" alt="logo" width="100"/>
+
 * Autor: Liz Armas Pedarza
 :octocat: https://github.com/Lizap1014/Latinoamericanas-Olimpicas
 
