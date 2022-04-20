@@ -33,14 +33,19 @@ Uso de GitHub como plataforma de publicación
 :octocat: https://github.com/Lizap1014/Latinoamericanas-Olimpicas
 
 ### Personas sin hogar
+<img src="https://user-images.githubusercontent.com/102685922/164255686-cb8b853f-1751-4a83-b385-6cf0d5f54013.png" alt="logo" width="100"/>
+
 * Autor: Rosalía y Marta
 :octocat: https://github.com/RosaliaPorcel/Personas-sin-hogar_2022 
 
 ### Poesia en Granada
+<img src="https://github.com/mgea/PeriodismoMultimedia/blob/master/2022/Poesia.png" alt="logo" width="100"/>
+
 * Autor: Paulina López, Sebastián Pareeeedes
 :octocat: https://github.com/sparedes877/Poesia-en-Granada_2022
 
 ### Slow Fashion 
+<img src="https://user-images.githubusercontent.com/103131235/164255656-1e5eeb2f-99b9-4e1e-93f5-b894739c3f67.png" alt="logo" width="100"/>
 
 * Autor: Ana Eva Jiménez 
 :octocat: https://github.com/AnaEvaJimenez/SlowFashionParaLaSupervivencia
