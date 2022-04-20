@@ -23,7 +23,7 @@ Uso de GitHub como plataforma de publicación
 
 
 * Autor: Natalia Ruiz Carmona, Sergio García Martos
-:octocat: https://github.com/naruar207/La-muerte-del-campo-granadino-22
+:octocat: https://github.com/sergama99/La-muerte-del-campo-granadino-22
 
 
 ### Latinoamericanas Olimpicas
