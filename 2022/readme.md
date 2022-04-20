@@ -38,7 +38,7 @@ Uso de GitHub como plataforma de publicación
 * Autor: Rosalía y Marta
 :octocat: https://github.com/RosaliaPorcel/Personas-sin-hogar_2022 
 
-### Poesia en Granada
+### Granada es poesía
 <img src="https://github.com/mgea/PeriodismoMultimedia/blob/master/2022/Poesia.png" alt="logo" width="200"/>
 
 * Autor: Paulina López, Sebastián Pareeeedes
