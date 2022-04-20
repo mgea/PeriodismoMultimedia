@@ -34,6 +34,11 @@ Uso de GitHub como plataforma de publicación
 * Autor: Paulina López, Sebastián Pareeeedes
 :octocat: https://github.com/sparedes877/Poesia-en-Granada_2022
 
+### 
+
+* Autor: Ana Eva Jiménez 
+:octocat: https://github.com/AnaEvaJimenez/SlowFashionParaLaSupervivencia
+
 ### 1907: la emigración invisible
 * Autor: Belén Jiménez Tirado
 :octocat: https://github.com/belenjimenezt/1907_laemigracioninvisible
