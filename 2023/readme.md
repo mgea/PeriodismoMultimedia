@@ -24,20 +24,24 @@ https://github.com/Asieranton/PeriodismoMultimedia_Template
 
 
 
-## Dos vidas y un café
+### Dos vidas y un café
 Propyecto transmedia basado en el recuerdo de las personas 
 
 https://github.com/yamixtl/Dosvidasyuncafe
 
 
 
-## El diario de Sophie
+### El diario de Sophie
 
 Una historia (terrible) real y una ficción en el diario 
 https://github.com/Edu00386/DiariodeSophie
 
     
-## 6 de bastos
+### 6 de bastos
   
 https://github.com/pmprados/Creaci-n-Multimedia
+
+
+
+Abril 2023
 
