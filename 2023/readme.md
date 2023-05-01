@@ -16,7 +16,7 @@
 
 ### Niebla Nazari
 
-* Historia de terror https://github.com/Asieranton/PeriodismoMultimedia_Template
+* Historia de terror https://github.com/Javimmnz/Niebla-Nazari
 
 
 
