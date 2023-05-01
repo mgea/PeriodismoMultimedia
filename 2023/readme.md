@@ -6,9 +6,7 @@
 
 ### El Master Este
 
-Idea del proyecto. vivencias del máster.
-
-https://github.com/Asieranton/PeriodismoMultimedia_Template
+* Idea del proyecto. vivencias del máster   https://github.com/Asieranton/PeriodismoMultimedia_Template
 
 
 ### Lucha de Inca
@@ -18,23 +16,18 @@ https://github.com/Asieranton/PeriodismoMultimedia_Template
 
 ### Niebla Nazari
 
-Historia de terror
-
-https://github.com/Asieranton/PeriodismoMultimedia_Template
+* Historia de terror https://github.com/Asieranton/PeriodismoMultimedia_Template
 
 
 
 ### Dos vidas y un café
-Propyecto transmedia basado en el recuerdo de las personas 
 
-https://github.com/yamixtl/Dosvidasyuncafe
-
+* Propecto transmedia basado en el recuerdo de las personas  https://github.com/yamixtl/Dosvidasyuncafe
 
 
 ### El diario de Sophie
 
-Una historia (terrible) real y una ficción en el diario 
-https://github.com/Edu00386/DiariodeSophie
+* Una historia (terrible) real y una ficción en el diario  https://github.com/Edu00386/DiariodeSophie
 
     
 ### 6 de bastos
