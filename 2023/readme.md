@@ -23,6 +23,8 @@
 ### Dos vidas y un café
 
 * Propecto transmedia basado en el recuerdo de las personas  https://github.com/yamixtl/Dosvidasyuncafe
+* Milanote: https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW
+
 
 
 ### El diario de Sophie
