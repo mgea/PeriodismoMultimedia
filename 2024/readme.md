@@ -2,8 +2,13 @@
 ## Proyectos de Creación Multimedia
 
 
-### Asesino en serie (fruta)
-* Github:[ https://github.com/nuriafdez1](https://github.com/nuriafdz1/nuriafdz1.github.io)
+### Asesino de la fruta
+* Github:[Asesion en serie](https://github.com/nuriafdz1/nuriafdz1.github.io)
+* ArcWeave: https://arcweave.com/app/project/VO64VwOlxY/play
+* Protopie: https://cloud.protopie.io/p/2c6c25e18bef3cd6eb4615a1
+* Vev: https://a-elasesinodelafruta.vev.site/el-asesino-de-la-fruta
+
+
 
 
 
@@ -34,6 +39,7 @@
 ### Mis pies son mis ojos
 
 * Github: https://github.com/gabbalord/PeriodismoMultimedia_Template
+* RenP'y: https://gabbalord.github.io/uwu
 
 
 
