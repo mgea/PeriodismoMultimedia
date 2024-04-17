@@ -44,8 +44,7 @@
 
 ## Sirena esquizo (nombre provisional)
 
-* Github:  https://github.com/carinaceballos
-* ArcWeave: 
+* Github: https://github.com/karinazeballos/karinazeballos.github.io
 
 * Protopie:
 * 
