@@ -2,10 +2,15 @@
 ## Proyectos de Creación Multimedia
 
 
+## Asesino en serie (fruta)
+* Github: https://github.com/nuriafdez1
+* ArcWeave: 
+* Protopie:
+* 
 
 ## Shin Chan en el mundo real
 
-* Github:
+* Github:  https://github.com/whoismir/
 * ArcWeave:
 * Protopie:
 * 
@@ -48,11 +53,6 @@
 * Protopie:
 * 
 
-## Asesino en serie (fruta)
-* Github:
-* ArcWeave: 
-* Protopie:
-* 
 
 
 
