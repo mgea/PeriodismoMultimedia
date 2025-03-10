@@ -2,7 +2,7 @@
 
 ## Proyectos de Creación Multimedia
 
-
+![Canvas](CMyPM23%20proyectos%20Milanote.png)
 
 ### El Master Este
 
@@ -25,7 +25,7 @@
 * Propecto transmedia basado en el recuerdo de las personas  https://github.com/yamixtl/Dosvidasyuncafe
 * Milanote: https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW
 
-
+![canvas](canvas_1-dos-vidas-y-un-cafe-230501_1816.png)
 
 ### El diario de Sophie
 
