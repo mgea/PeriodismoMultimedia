@@ -7,6 +7,7 @@ Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Mu
 
 Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y proyectos por parte de los estudiantes de la asignatura. Aquí podemos ver un resumen de las actividades más destacadas del curso 
 
+![logo](MasterLOGO24%20-%20mini%20CMyPM.jpg)
 
 ---
 
