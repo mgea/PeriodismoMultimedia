@@ -29,7 +29,9 @@
 
 ### Shin Chan en el mundo real
 
-* Github:  https://github.com/whoismir/
+* Documentación en Github:  https://github.com/whoismir/
+* Proyectos: https://whoismir.github.io/
+
 ![moodboard](moodboard-1.png)
 
 
