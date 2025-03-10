@@ -1,6 +1,8 @@
 
 ## Proyectos de Creación Multimedia
 
+![moodboard](moodboard.png)
+
 
 ### Asesino de la fruta
 * Github:[Asesion en serie](https://github.com/nuriafdz1/nuriafdz1.github.io)
@@ -10,13 +12,14 @@
 
 
 
+![moodboard](moodboard-5.png)
 
 
 
 ### Quien fuera caracol
 * Github:  https://github.com/jxrg98/jxrg98.github.io/
 
-
+![moodboard](moodboard-6.png)
 
 ### Echoes of the Sea
 * Github: https://github.com/karinazeballos/karinazeballos.github.io
@@ -27,7 +30,7 @@
 ### Shin Chan en el mundo real
 
 * Github:  https://github.com/whoismir/
-
+![moodboard](moodboard-1.png)
 
 
 
@@ -35,13 +38,14 @@
 
 * Github: https://github.com/panchocq/panchocq.github.io
 
+![moodboard](moodboard-4.png)
 
 ### Mis pies son mis ojos
 
 * Github: https://github.com/gabbalord/PeriodismoMultimedia_Template
 * RenP'y: https://gabbalord.github.io/uwu
 
-
+![moodboard](moodboard-3.png)
 
 Abril 2024
 
