@@ -5,11 +5,14 @@ Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Mu
 [Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/). Este fue el[cartel original de esta primera edición](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Cartel_Nuevos%20medios%20Interactivos.pdf) 
 ![Cartel Master](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/CartelNMI2015-16.png)
 
-Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y proyectos por parte de los estudiantes de la asignatura. Aquí podemos ver un resumen de las actividades más destacadas del curso 
 
 ![logo](MasterLOGO24%20-%20mini%20CMyPM.jpg)
 
+
 ---
+## Proyectos realizados
+
+Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y proyectos por parte de los estudiantes de la asignatura. Aquí podemos ver un resumen de las actividades más destacadas del curso 
 
 
 - [Proyecto del 2016](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/README.md) 
@@ -37,7 +40,7 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 ---
 
-Inspiración
+## Inspiración
 
 - [The FWA](https://thefwa.com) Showing experience cutting-edge innovation in digital design and development  
 
