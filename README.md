@@ -76,3 +76,13 @@ Filosofía Open Source
 
 - [ScrolltoTelling](https://github.com/mgea/ScrolltoTelling) Proyecto de creación de animaciones basadas en Scrolling
 
+
+## Acerca de..
+
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > Miguel Gea, updated: 18/02/2025
+
+
+
+
+
