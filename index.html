@@ -120,6 +120,37 @@ button.link:hover {
             transform: scale(1.05);
     }
 
+  
+/***** Ribbon con enlace repo github            **********/
+/**** basado en https://codepen.io/fyodorio/pen/jQwEQx ***/
+  
+.ribbon {
+  background-color: #fc0;
+  overflow: hidden;
+  white-space: nowrap;
+  position: absolute;
+  right: -70px;
+  top: 15px;
+  -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+       -o-transform: rotate(45deg);
+          transform: rotate(45deg);
+	-webkit-box-shadow: 0 0 10px #888;
+     -moz-box-shadow: 0 0 10px #888;
+          box-shadow: 0 0 10px #888;
+}
+.ribbon a {
+  border: 1px solid #faa;
+  color: #fff;
+  display: block;
+  font: bold 81.25% 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 1px 0;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 0 5px #444;
+}
  
 </style>
   
@@ -131,6 +162,11 @@ button.link:hover {
 <body>
    
 <h1>Creación Multimedia y Periodismo Multiplataforma</h1> 
+  <div class="ribbon">
+  <a href="https://github.com/mgea/PeriodismoMultimedia"><img src="https://mgea.github.io/PeriodismoMultimedia/content/img/mggithub.png" style="height:30px"> Repo GitHub </a>
+</div>
+  
+  
   <div class="container">
   <main class="grid">
   
