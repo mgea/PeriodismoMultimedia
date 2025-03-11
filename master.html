@@ -1,0 +1,265 @@
+<html>
+<!------ CMyPM index -Cards                ---->
+<!------ CCBYNCSA mgea, Jan 2024 v1.0                          ---->
+<!------ based on https://codepen.io/FrankieDoodie/pen/oPbMpQ   --->
+<!------- img cards de https://codepen.io/codingtuting/pen/XWrBgQz --->
+<!------ Grid Card Responsive Layout ------------------------------->
+
+    
+<head>
+  <meta charset="UTF-8"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 10px 0;
+  margin: 2vw;
+}
+
+h1 {
+        
+    font-family: 'Special Elite', cursive; 
+    color:darkslategray;
+    font-size: 24px;
+    }
+
+  
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 20px;
+  align-items: stretch;
+}
+
+.grid > article {
+  border: 1px solid #ccc;
+  position:relative;   /** para establecer posiciones fijas en card (link inferior) */ 
+  height: 480px;       /** para asignar tamaño altura fijo a cards */
+  box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+}
+
+.grid > article img {
+  max-width: 100%;
+    height: 200px;
+}
+
+.grid > article .text {
+  padding: 20px ;
+  padding-top: 0px;
+  ;
+}
+
+    
+.grid > article > .link {
+       font-family: 'Special Elite', cursive; 
+        position: absolute;
+        text-align: center;
+        color: black;
+     
+        left: 5%;
+         bottom: 3%;
+         width: 85%;
+        border-radius: 15px;
+        color: darkslategrey;
+      /* text-emphasis: 15px; */
+         padding: 0.5em;
+         background-color: #0acaf5; 
+      
+       font-size: 16px; 
+}
+
+.grid > article > .label  {
+    /* tipo de preservación **/ 
+    font-family: 'Special Elite', cursive; 
+    position: absolute;
+    background: #cacaf5;
+    right:10%;
+    top:150px;
+}
+
+footer {
+    margin-top: 10px;
+    padding: 15px; 
+    width: 98%;
+    background-color: lightgray;
+     font-family: 'Special Elite', cursive; 
+     font-size: 16px; 
+    
+    }
+    
+button.link:hover {
+      background-color:#cacaf5;
+      transition: 0.7s;
+  
+    }
+
+    
+    
+ .card-image {
+        position: relative;
+        margin: auto;
+        overflow: hidden;
+        height: 200px;
+        padding: 10px;
+        border-radius: 5px ;
+        transition: all .2s ease-in-out; 
+        }
+
+.card-image:hover {
+        
+         -webkit-transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            -o-transform: scale(1.05);
+            transform: scale(1.05);
+    }
+
+ 
+</style>
+  
+
+
+</head>
+
+    
+<body>
+   
+<h1>Creación Multimedia y Periodismo Multiplataforma</h1> 
+  <div class="container">
+  <main class="grid">
+  
+      <!---------------    Sesión 1     ---------------------------->
+      <article>
+        <div class="card-image"> <img src="https://assets-global.website-files.com/6320c82a55215f60d9e97f8b/6320c82a55215f12d5e9813a_unuJrw6w_Ussykwy545n3Ezhn4hhGQKL-mJK2jiTJKgOcPv21nxzbFPaM-JPY-HOl2uLAecpZY4wzKffwt8RdsfIrh7jhyHdbCroFsUWEFqxxB03tUMRf2BRqoluLbEAlROmv4LV%3Ds0.jpeg" ></div>
+      <div class="text">
+        <h2> Ecosistema Digital </h2> 
+        <p> Mundo digital, nuevos medios, tendencias  </p>
+         <div class="label"> sdsjlfhdkfhsfljldshfljladshfl</div>
+      </div>
+          
+          <button class="link" onclick= OpenPage("./content/DigitalMedia.html")>Ir a sesión 1</button>
+    </article>
+     
+     <!---------------    Sesión 2       ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://lh5.googleusercontent.com/fF5rCsZ590swJNJ7mGKZzlvr9WizLWaWUv2g81BvBaxqg5xjT2kNnQuR994XJNs7mWHgSHMKHny9SXtdVizfkyOkao08oDMXBPEJ_MQcOc1wRuCDdPZhejONLoG5OxZc_QVM99KO" alt="Sample photo" ></div>
+      <div class="text">
+          
+        <h2>UX  </h2>
+        <p>Experiencia de Usuario, Ideación, sketching & prototipado </p>  
+      </div>
+        
+        <button class="link" onclick= OpenPage("https://a-mediaux.vev.site/ux-report")> Ir a Sesión 2 </button>
+    </article>
+   
+      
+    
+       <!---------------    Sesión 3       ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/349330056/original/d0d4d125dae3e2635396e59eaa6712ea8d87b66b/do-your-book-the-most-beautiful-and-literate-in-spanish.jpg" alt="Sample photo" ></div>
+      <div class="text">
+          
+        <h2>Storytelling  </h2>
+        <p>Storytelling digital, long-form, inmersivo, aumentado</p>  
+      </div>
+        <!----
+        <button class="link" onclick= OpenPage("https://editorial.centroculturadigital.mx/eliteratura")> Ir a Sesión 3 </button>
+        ---->
+    </article>
+      
+   
+    <!---------------    Sesión 4       ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://cdnp2.stackassets.com/5e1653998e6e0194958707b8d0cced203b80cfba/store/opt/596/447/29f844cbec715c585a1be01897fa8bcb2292e4c6b118125ed68ddcfdd4c2/product_185139_product_shots1.jpg" alt="Sample photo" ></div>
+      <div class="text">
+          
+        <h2>Diseño & Interacción  </h2>
+        <p> </p>  
+      </div>
+        <!----
+        <button class="link" onclick= OpenPage("https://editorial.centroculturadigital.mx/eliteratura")> Ir a Sesión 4 </button>
+        ---->
+    </article>
+        
+   
+    <!---------------    Sesión 5       ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://cdn.vox-cdn.com/thumbor/oulgNYAI6_GNIpAhensHjmGAnH8=/0x0:6244x3500/1200x800/filters:focal(2623x1251:3621x2249)/cdn.vox-cdn.com/uploads/chorus_image/image/62641921/shutterstock_721678087.0.jpg" alt="Sample photo" ></div>
+      <div class="text">
+          
+        <h2>CMS & Journalism  </h2>
+        <p> </p>  
+      </div>
+        <!----
+        <button class="link" onclick= OpenPage("https://editorial.centroculturadigital.mx/eliteratura")> Ir a Sesión 5 </button>
+  --->
+    </article>
+        
+           
+<!---------------   Sesión 6    ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://www.freecodecamp.org/espanol/news/content/images/2022/07/ferenc-almasi-NzERTNpnaDw-unsplash.jpg" alt="Wayback Machine" ></div>
+      <div class="text">
+          
+        <h2>Web Design</h2>
+          <p>Layout, Patrones, Estilos  </p>
+        
+      </div>
+        
+        <button class="link" onclick= OpenPage("./content/WebDesign.html")>Ir a Sesión 7 </button>
+    </article>
+      
+           
+<!---------------   Sesión 7      ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://marvel-b1-cdn.bc0a.com/f00000000277771/www.bsu.edu/-/media/www/departmentalcontent/computerscience/images/game-design-1200.jpg"  ></div>
+      <div class="text">
+          
+        <h2>Games</h2>
+          <p>GDD, Game engine, plataformas </p>
+        
+      </div>
+        <!----
+        <button class="link" onclick= OpenPage("https://www.playemulator.io/")>Ir a Sesión 7 </button>
+        ---->
+    </article>
+      
+  <!---------------   Documentación    ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://i.ytimg.com/vi/3AA4WjvEeNg/maxresdefault.jpg" alt="Wayback Machine" ></div>
+      <div class="text">
+          
+        <h2>Documentación</h2>
+          <p>Publicación de proyecto usando herramientas como Github.
+        
+      </div>
+        <!----
+        <button class="link" onclick= OpenPage("https://www.playemulator.io/")>Ir a Sesión 8 </button>
+---->
+    </article>         
+
+     
+  </main>
+       
+ <footer>
+     <a href="https://mgea.github.io"> <img src="img/mggithub.png" style="height: 20px"></a> CC BYNCSA mgea, 2024
+ </footer>
+</div>
+    
+    
+<script> 
+    
+    
+function  OpenPage(s) {
+  // abrir link en nuevo tab
+  //  alert(s);
+    window.open( s, "_blank");
+}
+</script>
+    
+</body>
+</html>
+
