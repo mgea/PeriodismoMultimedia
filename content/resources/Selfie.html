@@ -1,0 +1,151 @@
+<html>
+<!------ Selfie - grid image                              ---->
+<!------ CCBYNCSA mgea, Jan 2024 v1.0
+<!------ based on https://codepen.io/jcb01/pen/KKyvZQN      --->
+<!---https://codepen.io/alexhernandez/pen/qpeBrp grid + breakpoinnts -->
+<!-- Responsive con grid https://www.youtube.com/watch?v=El0OJ6h_2ZI -->
+<head>
+    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+body {
+  font-family: "Roboto", sans-serif;
+
+  margin: 2vw;
+}
+
+.titulo-foto {
+  font-family: 'Special Elite', cursive;
+  font-weight: 20;
+	font-size: 1rem;
+  align-items: center;
+	justify-content: center;
+	background: #fffdf5;
+	color: #3f3f5a;
+  position: fixed;
+  left: 10%;
+  bottom: 1vh;
+}
+
+
+
+p:hover {
+  cursor: default;
+}
+h2 {
+  color: orange;
+}
+
+.grid-container {
+  border: solid 1px #eeeeee; /*for debugging display */
+  padding: 0.5vw;
+  display: grid;
+ /* grid-template-columns: repeat(4, 1fr); */
+ grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));   /* fuerza responsive  -> https://www.youtube.com/watch?v=El0OJ6h_2ZI **/
+  grid-auto-rows: 25.5vw;  /* altura foto */
+  grid-gap: 0.5vw; /* optional gutter , use "vw" instead of "px" to keep proportions responsive */
+}
+
+.griditem {
+  background-size: cover;
+  background-position: center;
+  filter: grayscale(100%);
+  padding: 2vw;
+  font-size: 0.8em;
+  box-sizing: border-box;
+}
+.griditem:hover {
+  cursor: pointer;
+  filter: brightness(70%) ;
+}
+/* set background images*/
+.image1 {
+ /* background-position: left center;*/
+  background-image: url("https://ichef.bbci.co.uk/news/800/cpsprodpb/9801/production/_98831983_definition.jpg");
+  /*grid-area: image1;*/
+}
+.image2 {
+  background-image: url("https://api.time.com/wp-content/uploads/2014/01/1101130520_600.jpg");
+  /*grid-area: image2;*/
+}
+.image3 {
+  background-image: url("https://www.hollywoodreporter.com/wp-content/uploads/2014/03/ellen_selfie_oscars.jpg");
+  /*grid-area: image3;*/
+}
+.image4 {
+  background-position: top center;
+  background-image: url("https://api.time.com/wp-content/uploads/2016/09/hillary-clinton-epic-group-selfie.jpg");
+  /*grid-area: image4;*/
+}
+.image5 {
+  background-image: url("https://www.misgafasdepasta.com/wp-content/uploads/2016/08/angela-nikolau-alturas-mis-gafas-de-pasta01.jpg");
+}
+.image6 {
+  background-image: url("https://selfiecity.net/assets/selfiexploratory.jpg");
+}
+
+
+    
+    
+</style>
+    
+
+
+    
+</head>
+
+    
+<body>
+   
+  <div id="grid" class="grid-container">
+
+    <div id="image1" class="griditem image1">
+       <span class="titulo-foto">  
+                  Selfie: palabra del año, 2013  
+                  <a href="https://www.merriam-webster.com/word-of-the-day/selfie-2014-07-30" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+      
+    </div>
+
+    <div id="image2" class="griditem image2">
+        <span class="titulo-foto">  
+                  Me, me, me Generation: Time, 2013   
+                  <a href="https://time.com/247/millennials-the-me-me-me-generation/" target="_blank">  <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+        
+    </div>
+    <div id="image3" class="griditem image3">
+      <span class="titulo-foto">  
+                  Ellen DeGeneres: ceremonia de los Oscar, 2014  
+                  <a href="https://twitter.com/EllenDeGeneres/status/440322224407314432" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+
+
+    </div>
+    <div id="image4" class="griditem image4">
+      <span class="titulo-foto">  
+                  Hillary Clinton’s Epic Group Selfie, 2016  
+                  <a href="https://time.com/4508252/hillary-clinton-epic-selfie/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+
+    </div>
+    <div id="image5" class="griditem image5">
+       <span class="titulo-foto">  
+                  Angela nikolau, roofing, 300K followers, 2016  
+                  <a href="https://www.instagram.com/angela_nikolau" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+        
+        
+    </div>
+
+    <div id="image6" class="griditem image6">
+     <span class="titulo-foto">  
+                  Selfiecity, Investigating the style 2016  
+                  <a href="https://selfiecity.net/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+        
+
+    </div>
+    
+  </div>
+    
+</body>
+</html>
+

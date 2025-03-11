@@ -1,0 +1,85 @@
+<html>
+<!------ Software - tagcloud                                    ---->
+<!------ CCBYNCSA mgea, Jan 2024 v1.0                            --->
+<!------ based on https://codepen.io/Malakannawar/pen/dyWKxgJ    --->
+<!---   using tagcloud.js                                      ------>
+<!---- https://dev.to/asmitbm/animated-text-sphere-in-javascript-using-tagcloud-js-1p72  -->
+
+    
+<head>
+    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+    
+body {
+  background-color: #000
+}
+
+.tagcloud {
+    font-family: Special Elite, sans-serif;  
+    font-size: 20px;
+    margin: auto;
+    width: 100%;
+  }
+  .tagcloud--item:hover {
+    color: #36454F;
+  }
+
+   
+    
+</style>
+    
+
+
+    
+</head>
+
+    
+<body>
+    
+    <div class="content"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/TagCloud@2.2.0/dist/TagCloud.min.js"> </script>
+ 
+<script> 
+    
+const myTags = [
+    'JavaScript', 'CSS', 'HTML', "Obsidian",
+    'OpenSource', 'Creative Commons', 'Github',
+    'Wikis', 'Codepen', 'MarkDown', 'accesibilidad',
+    'python', 'script', 'CMS', 'game engine', 
+    'mockup', 'responsive', "Notion"
+];
+
+var tagCloud = TagCloud('.content', myTags,{
+
+  // radius in px
+  radius: 250,
+
+  // animation speed
+  // slow, normal, fast
+  maxSpeed: 'fast',
+  initSpeed: 'fast',
+
+  // 0 = top
+  // 90 = left
+  // 135 = right-bottom
+  direction: 135,
+  
+  // interact with cursor move on mouse out
+  keep: true
+  
+});
+
+//To change the color of text randomly
+var colors = ['#34f8f3', '#FBBC05', '#4285F4', '#7FBC00', 'FFBA01', '01A6F0'];
+var random_color = colors[Math.floor(Math.random() * colors.length)];
+document.querySelector('.content').style.color = random_color;    
+    
+</script>
+</body>
+</html>
+

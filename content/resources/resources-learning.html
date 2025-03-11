@@ -1,0 +1,323 @@
+<html>
+<!------ Flash Cards responsive & animated         ---->
+<!------ CCBYNCSA mgea, Jan 20245 v1.0                       ---->
+<!------ based on https://codepen.io/josetxu/pen/PNjqXB      ---->
+<!------                                                       ---->
+<!------ pure CSS                                            ---->
+<!---    Otro Flippable flash cards - flip on click clicable  --->
+<!---            https://codepen.io/brianwik/pen/vNNRLP       ---->
+<!---    Resources insights  for learning                    -->
+<!-------------------------------------------------------------->
+<head>
+    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+body {
+  color: #333;
+  font-family: Special Elite, Arial, Helvetica;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  background: url(https://josetxu.com/img/fondo_blanco.png) repeat 0 0 #fff;
+}
+
+h1 {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  margin: 0 0 5% 0;
+  padding: 0.5em;
+  margin: 0 0 5% 0;
+}
+
+.flip-container {
+  perspective: 1000;
+  margin: 10px;
+  float: left;
+  cursor:pointer;
+    }
+  .flippable {
+    transition: 0.5s;
+    transform-style: preserve-3d;
+    position: relative;
+  }
+
+  .flipme {
+    transform: rotateY(180deg);
+  }    
+    
+    
+.cardBox {
+  float: left;
+  font-size: 1.1em;
+  margin: 1% 0 0 1%;
+  perspective: 800px;
+  transition: all 0.3s ease 0s;
+  width: 23.7%;
+}
+/**
+.cardBox:active .card {
+  transform: rotateY( 180deg);
+}
+***/
+.card {
+  background: #fffdf5;  /* fondo card normal */
+  cursor: default;
+  height: 300px;
+  transform-style: preserve-3d;
+  transition: transform 0.4s ease 0s;
+  width: 100%;
+  -webkit-animation: giro 1s 1;
+  animation: giro 1s 1;
+}
+
+.card p {
+  margin-bottom: 1.8em;
+}
+
+.card .front,
+.card .back {
+  backface-visibility: hidden;
+  box-sizing: border-box;
+  color: darkblue;  
+  display: block;
+  font-size: 1.2em;
+  height: 100%;
+  padding: 0.8em;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.card .front strong {
+  background: #0a0a0a;
+  border-radius: 100%;
+  color: #222;
+  font-size: 1.5em;
+  line-height: 30px;
+  padding: 0 7px 4px 6px;
+}
+
+.card .back {
+  transform: rotateY( 180deg);
+}
+
+.card .back a {
+  /* padding: 0.3em 0.5em;
+   background: #a333b3;
+  color: #0a0a0a;
+  text-decoration: none; */
+  border-radius: 1px;
+  font-size: 0.9em;
+  transition: all 0.2s ease 0s;
+}
+
+/* 
+.card .back a:hover {
+  background: #fff;
+  color: #333;
+  text-shadow: 0 0 1px #333;
+}
+    ***/
+
+.cardBox:nth-child(1) .card .back {
+  background: #d0e0d0;
+}
+
+.cardBox:nth-child(2) .card .back {
+  background: #d0e0d0;
+}
+
+.cardBox:nth-child(3) .card .back {
+  background: #d0e0d0;
+}
+
+.cardBox:nth-child(4) .card .back {
+  background: #d0e0d0;
+}
+
+.cardBox:nth-child(2) .card {
+  -webkit-animation: giro 1.5s 1;
+  animation: giro 1.5s 1;
+}
+
+.cardBox:nth-child(3) .card {
+  -webkit-animation: giro 2s 1;
+  animation: giro 2s 1;
+}
+
+.cardBox:nth-child(4) .card {
+  -webkit-animation: giro 2.5s 1;
+  animation: giro 2.5s 1;
+}
+
+@-webkit-keyframes giro {
+  from {
+    transform: rotateY( 180deg);
+  }
+  to {
+    transform: rotateY( 0deg);
+  }
+}
+
+@keyframes giro {
+  from {
+    transform: rotateY( 180deg);
+  }
+  to {
+    transform: rotateY( 0deg);
+  }
+}
+
+
+
+@media screen and (max-width: 567px) {
+  .cardBox {
+    margin-left: 2.8%;
+    margin-top: 3%;
+    width: 40%;
+  }
+  .card {
+    height: 285px;
+  }
+  .cardBox:last-child {
+    margin-bottom: 3%;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .cardBox {
+    width: 94.5%;
+  }
+  .card {
+    height: 200px;
+  }
+}
+
+    
+</style>
+    
+
+
+    
+</head>
+
+    
+<body>
+   
+ <h1>Learning Resources </h1>
+
+<div class="flipContainer" >
+
+  <div class="cardBox" ontouchstart="this.classList.toggle('hover');">
+    <div class="card flippable">
+      <div class="front">
+        <h3>Card-based</h3>
+        <p>Powerpoint Style</p>
+          <a href="https://hypercard.org/" target="_blank"> 
+              <img src="https://pbs.twimg.com/profile_images/1071407592038113280/u9DcAX_K_400x400.jpg" style="height: 30%">     </a>
+        
+      </div>
+      <div class="back">
+        <h3>Slides-based </h3>
+        <p> Genially, 2015</p>
+      <a href="https://genial.ly/es/" target="_blank"><img src="https://remoters.net/wp-content/uploads/2020/08/genially.png" style="height: 30%">    </a> 
+        
+       
+      </div>
+    </div>
+  </div>
+
+  <div class="cardBox">
+    <div class="card flippable">
+      <div class="front">
+        <h3>Timeline-based</h3>
+        <p>Flash, 1996</p>
+        <a href="https://mosaic.uoc.edu/2020/06/03/flash-is-dead-long-live-flash-apuntes-para-una-epistemologia-del-software-de-autor/" target="_blank"> 
+              <img src="https://img2.freepng.es/20180320/ejq/kisspng-adobe-flash-player-adobe-animate-adobe-systems-icon-vector-flash-5ab167a6064f75.8239713315215758460259.jpg" style="height: 30%">     </a> 
+              
+      </div>
+      <div class="back">
+        <h3>Flash-like emulator </h3>
+        <p>Wickeditor, 2016</p>
+         <a href="https://www.wickeditor.com/" target="_blank"><img src="https://static.wikia.nocookie.net/logopedia/images/0/02/Wick_Editor.png/revision/latest?cb=20220303032658&path-prefix=es" style="height: 30%">    </a> 
+      </div>
+    </div>
+  </div>
+
+  <div class="cardBox">
+    <div class="card flippable">
+      <div class="front">
+        <h3>Game based</h3>
+        <p>JClic, 1995</p>
+         <a href="https://clic.xtec.cat/repo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/JClic-logo.png" style="height: 25%">   </a> 
+          <!---- LEER MAS https://clic.xtec.cat/docs/novatica.pdf ---> 
+          <!-----
+          <p><a href="https://clic.xtec.cat/docs/novatica.pdf" target="_blank"> leer más </a></p>
+          --->
+      </div>
+      <div class="back">
+        <h3>Form-based</h3>
+        <p>H5P, 2013 </p>
+        <a href="https://h5p.org/" target="_blank"><img src="https://wrupal.com/wp-content/uploads/2021/05/h5p-logo.png" style="height: 25%">   </a> 
+         
+          <!----
+          <p><a href="https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/guia_H5p/historia_de_h5p.html" target="_blank">leer más</a></p>
+          --->
+      </div>
+    </div>
+  </div>
+
+  <div class="cardBox">
+    <div class="card flippable">
+      <div class="front">
+        <h3>Object based</h3>
+        <p>AuthorWare, 1992</p>
+        <a href="https://edutechwiki.unige.ch/en/Authorware" target="_blank"><img src="https://seeklogo.com/images/M/Macromedia_Authorware_6_5-logo-02448359AE-seeklogo.com.gif" style="height: 25%">   </a> 
+         <p>
+      </div>
+      <div class="back">
+        <h3>DOM Based</h3>
+        <p>HTML5, 2014</p>
+       <a href="https://www.browserstack.com/guide/top-html5-features" target="_blank"><img src="https://images.velog.io/images/kimdlzp/post/c56bd5e7-6060-47c5-b149-83a55675f73b/174854.png" style="height: 25%">   </a> 
+      </div>
+    </div>
+  </div>
+
+<!-----   FILA 2 -->
+  
+<div class="cardBox">
+  <div class="card flippable">
+    <div class="front">
+      <h3>Object based</h3>
+      <p>AuthorWare, 1992</p>
+      <a href="https://edutechwiki.unige.ch/en/Authorware" target="_blank"><img src="https://seeklogo.com/images/M/Macromedia_Authorware_6_5-logo-02448359AE-seeklogo.com.gif" style="height: 25%">   </a> 
+       <p>
+    </div>
+    <div class="back">
+      <h3>DOM Based</h3>
+      <p>HTML5, 2014</p>
+     <a href="https://www.browserstack.com/guide/top-html5-features" target="_blank"><img src="https://images.velog.io/images/kimdlzp/post/c56bd5e7-6060-47c5-b149-83a55675f73b/174854.png" style="height: 25%">   </a> 
+    </div>
+  </div>
+</div>
+
+</div>
+<!--.flipContainer-->
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(".flippable").click(function(){
+  $(this).toggleClass("flipme");
+});    
+</script> 
+    
+    
+</body>
+</html>
+

@@ -1,0 +1,693 @@
+<html>
+<!------ Timeline authoring Tools responsive & animated     ---->
+<!------ CCBYNCSA mgea, Jan 2024 v1.0                       ---->
+<!------ based on https://codepen.io/Gatsby/pen/xgPdqE      ---->
+<!------                                                       ---->
+<!------ con js +  jquery                                   ---->
+<!-------------------------------------------------------------->
+<head>
+    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+
+*, *:before, *:after {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+}
+
+body {
+  background: #f9f9f9;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: roboto, helvetica, arial, tahoma, verdana;
+  line-height: 20px;
+  font-size: 16px;
+  color: #726f77;
+}
+
+
+    
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+
+  font-family: 'Special Elite', cursive;
+  font-weight: 12;    
+
+}
+
+.project-name {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.success {
+  background: #78AD42 !important;
+}
+
+.timeline-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#timeline .timeline-item:after, #timeline .timeline-item:before {
+  content: '';
+  display: block;
+  width: 100%;
+  clear: both;
+}
+
+#timeline {
+  width: 100%;
+  margin: 30px auto;
+  position: relative;
+  padding: 0 20px;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+#timeline:before {
+  content: "";
+  width: 3px;
+  height: 100%;
+  background: #1C71A4;
+  left: 50%;
+  top: 0;
+  position: absolute;
+}
+#timeline:after {
+  content: "";
+  clear: both;
+  display: table;
+  width: 100%;
+}
+#timeline .timeline-item {
+  margin-bottom: 50px;
+  position: relative;
+}
+#timeline .timeline-item .timeline-icon {
+  background: #1C71A4;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  overflow: hidden;
+  margin-left: -23px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
+    
+ .timeline-icon > p  {
+     /** contenido de hitos con texto ***/
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    font-weight: 10;     
+    color: aliceblue;
+}    
+    
+#timeline .timeline-item .timeline-icon svg, #timeline .timeline-item .timeline-icon .fa {
+  position: relative;
+   /* align-content: center; */ 
+    
+  top: 13px;
+  left: 14px;
+  font-size: 24px;
+  color: #fff;
+}
+#timeline .timeline-item .timeline-content {
+  width: 45%;
+  background: #fff;
+  padding: 20px;
+  -webkit-box-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+  -ms-box-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+#timeline .timeline-item .timeline-content h2 {
+  padding: 15px;
+  background: #1C71A4;
+  color: #fff;
+  margin: -20px -20px 0 -20px;
+  font-weight: 300;
+  -webkit-border-radius: 3px 3px 0 0;
+  -moz-border-radius: 3px 3px 0 0;
+  -ms-border-radius: 3px 3px 0 0;
+  border-radius: 3px 3px 0 0;
+  font-size: 22px;
+}
+#timeline .timeline-item .timeline-content p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#timeline .timeline-item .timeline-content:before {
+  content: '';
+  position: absolute;
+  left: 45%;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 7px solid #1C71A4;
+}
+#timeline .timeline-item .timeline-content.right {
+  float: right;
+}
+#timeline .timeline-item .timeline-content.right:before {
+  content: '';
+  right: 45%;
+  left: inherit;
+  border-left: 0;
+  border-right: 7px solid #1C71A4;
+}
+
+
+@media screen and (max-width: 768px) {
+  #timeline {
+    margin: 30px;
+    padding: 0px;
+    width: 90%;
+  }
+  #timeline:before {
+    left: 0;
+  }
+  #timeline .timeline-item .timeline-content {
+    width: 90%;
+    float: right;
+  }
+  #timeline .timeline-item .timeline-content:before, #timeline .timeline-item .timeline-content.right:before {
+    left: 10%;
+    margin-left: -6px;
+    border-left: 0;
+    border-right: 7px solid #1C71A4;
+  }
+  #timeline .timeline-item .timeline-icon {
+    left: 0;
+  }
+}
+
+.foto {
+    margin:1.1em;
+    width: 50%; 
+    margin-left: 20%;  
+    }  
+    
+.foto:hover {
+  cursor: pointer;
+  filter: brightness(70%) ;
+  /* transform: scale(1.2); */
+   -webkit-animation: bounce-1 0.6s;
+   -moz-animation: bounce-1 0.6s;
+    animation: bounce-1 0.6s;
+}
+
+/* Animation CSS */
+
+/* icon animation */
+.timeline-icon.is-hidden {
+  visibility: hidden;
+}
+.timeline-icon.animate-it {
+  visibility: visible;
+   -webkit-animation: bounce-1 0.6s;
+   -moz-animation: bounce-1 0.6s;
+    animation: bounce-1 0.6s;
+}
+
+/* content block animation */
+.timeline-content.is-hidden {
+  visibility: hidden;
+}
+.timeline-content.animate-it {
+  visibility: visible;
+   -webkit-animation: bounce-2 0.6s;
+   -moz-animation: bounce-2 0.6s;
+    animation: bounce-2 0.6s;
+  }
+@media only screen and (min-width: 769px) {
+  /* Inverse bounce effect on even content blocks */
+.timeline-content.right.animate-it {
+    -webkit-animation: bounce-2-inverse 0.6s;
+    -moz-animation: bounce-2-inverse 0.6s;
+    animation: bounce-2-inverse 0.6s;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* Inverse bounce effect on all content blocks */
+.timeline-content.animate-it, .timeline-content.right.animate-it {
+    -webkit-animation: bounce-2-inverse 0.6s;
+    -moz-animation: bounce-2-inverse 0.6s;
+    animation: bounce-2-inverse 0.6s;
+  }
+}
+
+/* ALL animation types called */
+
+@-webkit-keyframes bounce-1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale(1.2);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+  }
+}
+@-moz-keyframes bounce-1 {
+  0% {
+    opacity: 0;
+    -moz-transform: scale(0.5);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: scale(1.2);
+  }
+
+  100% {
+    -moz-transform: scale(1);
+  }
+}
+@keyframes bounce-1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@-webkit-keyframes bounce-2 {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+  }
+}
+@-moz-keyframes bounce-2 {
+  0% {
+    opacity: 0;
+    -moz-transform: translateX(-100px);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: translateX(20px);
+  }
+
+  100% {
+    -moz-transform: translateX(0);
+  }
+}
+@keyframes bounce-2 {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-100px);
+    -moz-transform: translateX(-100px);
+    -ms-transform: translateX(-100px);
+    -o-transform: translateX(-100px);
+    transform: translateX(-100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(20px);
+    -moz-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    -o-transform: translateX(20px);
+    transform: translateX(20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+@-webkit-keyframes bounce-2-inverse {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(-20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+  }
+}
+@-moz-keyframes bounce-2-inverse {
+  0% {
+    opacity: 0;
+    -moz-transform: translateX(100px);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: translateX(-20px);
+  }
+
+  100% {
+    -moz-transform: translateX(0);
+  }f
+}
+@keyframes bounce-2-inverse {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(100px);
+    -moz-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    -o-transform: translateX(100px);
+    transform: translateX(100px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(-20px);
+    -moz-transform: translateX(-20px);
+    -ms-transform: translateX(-20px);
+    -o-transform: translateX(-20px);
+    transform: translateX(-20px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+    
+</style>
+    
+
+
+    
+</head>
+
+    
+<body>
+   
+ <div class="timeline-container">
+  <h1 class="project-name">Multimedia Timeline</h1> 
+  <div id="timeline">
+
+      
+      
+       <!----- hito Sketchpad ----->    
+      
+      <div class="timeline-item">
+        <div class="timeline-icon">
+            <p> 1963</p>
+            
+        </div>
+        <div class="timeline-content">
+          <h2>SketchPad</h2>
+             <p>
+             <iframe width=100% src="https://www.youtube.com/embed/6orsmFndx_o?si=YqdV8vps-KPdnrh6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+          
+         <span class="time-stamp">Primer programa para manipular objetos gráficos de forma dinámica desarrollado por Ivan Sutherland, que sería el principio de la <a href="https://www.eniun.com/interaccion-persona-ordenador/" target="_blank"><i>Interacción persona-ordenador</i></a></span>
+        </div>
+      </div>
+      
+       
+       <!----- hito Mouse ----->    
+      
+      <div class="timeline-item ">
+        <div class="timeline-icon">
+            <p> 1968</p>
+            
+        </div>
+        <div class="timeline-content right">
+          <h2>Mouse</h2>
+             <p>
+             <iframe width=100%  src="https://www.youtube.com/embed/B6rKUf9DWRI?si=lEgThecU2BC-ebGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+          
+         <span class="time-stamp">La invención del mouse por Douglas Engelbart en la llamada <a href="https://en.wikipedia.org/wiki/The_Mother_of_All_Demos" target="_blank"><i>the mother of all Demos</i></a></span>
+        </div>
+      </div>
+      
+      <!----- hito Atari ----->    
+      
+      <div class="timeline-item ">
+        <div class="timeline-icon">
+            <p> 1977</p>
+            
+        </div>
+        <div class="timeline-content ">
+          <h2>Atari</h2>
+             <p>
+             <iframe width=100%  src="https://www.youtube.com/embed/BsQ-eYIxAlQ?si=XcJIhA_NcxvI8EBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+          
+         <span class="time-stamp">Atari, primera videoconsola lanzada al mercado con el famoso juego <a href="https://www.aarp.org/espanol/hogar-familia/tecnologia/info-2022/videojuego-atari-pong-nolan-bushnell.html" target="_blank"><i>Pong</i></a> </span>
+        </div>
+      </div>
+      
+       
+     <!----- hito Macintosh ----->    
+      
+      <div class="timeline-item">
+        <div class="timeline-icon">
+            <p> 1984</p>
+            
+        </div>
+        <div class="timeline-content right">
+          <h2>Apple Macintosh </h2>
+            
+    <div class="foto">   
+                <a href=" https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/" target="_blank">
+                <img src="https://s1.eestatic.com/2019/01/23/sociedad/efemerides/efemerides-apple-estados_unidos_370724357_112997114_1706x960.jpg" ></a> </div>
+            
+          
+         <span class="time-stamp">Apple de la mano de Steve Jobs apuesta por un ordenador multimedia basado en interfaces gráficos de usuario (GUI) con la linea de ordenadores de segunda generación <i><a href="https://history-computer.com/macintosh-by-apple-complete-history-of-mac-computers/" target="_blank"> Mac</a></i></span>
+        </div>
+      </div>
+                     
+      
+     <!----- hito Macintosh Ads ----->    
+      
+      <div class="timeline-item">
+        <div class="timeline-icon">
+            <p> 1984</p>
+            
+        </div>
+        <div class="timeline-content">
+          <h2>Apple Macintosh (anuncio)</h2>
+            
+    <p>
+             <iframe width=100% src="https://www.youtube.com/embed/YOO0X5FpWg8?si=7pMLMtIcJXzQ4kMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+          
+         <span class="time-stamp">El video promocional lo produce  Ridley Scott y fue emitido por primera vez en "prime time", ya es un artículo de masas y se presenta como alternativa al PC tradicional</span>
+        </div>
+      </div>
+      
+      
+      <!----- hito  Hypercard ----->      
+       <div class="timeline-item">
+        <div class="timeline-icon">
+            <p> 1987</p>
+            
+        </div>
+        <div class="timeline-content right">
+          <h2>HyperCard</h2>
+            
+            <div class="foto">   
+                <a href=" https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/" target="_blank">
+                <img src="https://blog.archive.org/wp-content/uploads/2017/08/MTIyMzI2ODgxMjYwNTYzNzM3.jpg" ></a> </div>
+            
+          
+          <span class="time-stamp">Las herramientas de autor permiten crear contenido interactivo para el desarrollo de productos multimedia. HyperCard es pionera en entorno Apple basado en metáfora de pila de tarjetas (cards)</span>
+        </div>
+      </div>
+
+       <!----- hito  Web ----->    
+      <div class="timeline-item">
+        <div class="timeline-icon "> 
+            <p style="color: aliceblue; text-align: center"> 1989</p>
+          <i class="fa fa-star" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>La Web</h2>
+         
+             <div class="foto">   
+                <a href=" http://info.cern.ch/" target="_blank">
+                <img src="https://ncsamainsite.web.illinois.edu/wp-content/uploads/2021/10/mosaic.1.0.2-1024x955.jpg" ></a> </div>
+            
+            <p> <span class="time-stamp"> Tim Berners-Lee crea la Web en 1989 en el CERN, y en  diciembre de 1990, se publica la primera página web en HTML 1.0 que todavía sigue funcionando:  que se podía visitar con el primer navegador de la historia: NCSA Mosaic y en  <a href=" https://webfoundation.org/about/vision/history-of-the-web/" target="_blank">Web Foundation</a> podéis consultarla historia.</span></p>
+        </div>
+      </div>
+ 
+      <!----- hito  Macromedia ----->    
+      <div class="timeline-item">
+        <div class="timeline-icon "> 
+            <p style="color: aliceblue; text-align: center"> 1992</p>
+          <i class="fa fa-star" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Macromedia</h2>
+         
+             <div class="foto">   
+                <a href=" https://macromedia.fandom.com/wiki/Macromedia" target="_blank">
+                <img src="https://lingoworkshop.com/assets/images/D5screengrab.jpg" ></a> </div>
+            
+            <p> <span class="time-stamp"> Macromedia fue una empresa de gráficos y desarrollo multimedia que lanza al mercado productos como <a href="https://lingoworkshop.com/articles/history" target="_blank">Director</a> y <a href="https://macromedia.fandom.com/wiki/Macromedia_Authorware" target="_blank"> Authorware </a> y posteriomente fue absorbida por Adobe</span></p>
+        </div>
+      </div>
+      
+      <!----- hito  Macromedia Flash----->  
+       <div class="timeline-item">
+        <div class="timeline-icon">
+        <p style="color: aliceblue; text-align: center"> 1996</p>   
+          <i class="fa fa-check-square-o" aria-hidden="true">x</i>
+        </div>
+        <div class="timeline-content">
+          <h2>(Macromedia) Flash</h2>
+          <div class="foto">   
+                <a href=" https://mosaic.uoc.edu/2020/06/03/flash-is-dead-long-live-flash-apuntes-para-una-epistemologia-del-software-de-autor/" target="_blank">
+                <img src="https://i.imgur.com/gX6yPYA.gif" ></a> </div>
+            
+            <p> <span class="time-stamp"> Macromedia Flash fue sin duda una de las herramientas de animación para la web más usada hasta 2020 cuando fue discontinuada por sus agujeros de seguridad  </span></p>
+        </div>
+      </div>
+
+       <!----- hito  IPhone----->  
+       <div class="timeline-item">
+        <div class="timeline-icon">
+        <p style="color: aliceblue; text-align: center"> 2007</p>   
+          <i class="fa fa-check-square-o" aria-hidden="true">x</i>
+        </div>
+        <div class="timeline-content right">
+          <h2>(Apple) IPhone</h2>
+          <div class="foto">   
+                <a href=" https://www.apple.com/es/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/" target="_blank">
+                <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoy-cumplen-15-anos-presentacion-iphone-steve-jobs-cambio-mundo-siempre-2581363.jpg" ></a> </div>
+            
+            <p> <span class="time-stamp"> Aparece el smarthphone que marcará la tendencia futura en cuanto a móviles inteligentes y pensados como central multimedia </span></p>
+        </div>
+      </div>
+      
+   
+        <!----- hito  HTML5----->  
+       <div class="timeline-item">
+        <div class="timeline-icon">
+        <p style="color: aliceblue; text-align: center"> 2014</p>   
+          <i class="fa fa-check-square-o" aria-hidden="true">x</i>
+        </div>
+        <div class="timeline-content ">
+          <h2>(Apple) HTML5</h2>
+          <div class="foto">   
+                <a href="https://www.w3.org/TR/2011/WD-html5-20110405/index.html" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" ></a> </div>
+            
+            <p> <span class="time-stamp">Ultima revisión del lenguaje HTML (que además de incorporar llas capas de estilo en CSS y comportamiento con JavaScript) añade más control para gestionar elementos multimedia y de diseño de página.  </span></p>
+        </div>
+      </div>
+     
+
+    
+  </div>
+  </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+
+
+$(function() {
+	var timelineBlocks = $('.timeline-item'),
+		offset = 0.8;
+
+	//hide timeline blocks which are outside the viewport
+	hideBlocks(timelineBlocks, offset);
+
+	//on scolling, show/animate timeline blocks when entering the viewport
+	$(window).on('scroll', function(){
+		(!window.requestAnimationFrame) 
+			? setTimeout(function(){ showBlocks(timelineBlocks, offset); }, 100)
+			: window.requestAnimationFrame(function(){ showBlocks(timelineBlocks, offset); });
+	});
+
+	function hideBlocks(blocks, offset) {
+		blocks.each(function(){
+		    ($(this).offset().top > $(window).scrollTop() + $(window).height() * offset) && $(this).find('.timeline-icon, .timeline-content').addClass('is-hidden');
+		});
+	}
+
+	function showBlocks(blocks, offset) {
+		blocks.each(function(){
+		    ($(this).offset().top <= $(window).scrollTop() + $(window).height() * offset && $(this).find('.timeline-icon').hasClass('is-hidden')) && $(this).find('.timeline-icon, .timeline-content').removeClass('is-hidden').addClass('animate-it');
+
+		});
+	}
+});    
+    
+</script>
+    
+</body>
+</html>
+

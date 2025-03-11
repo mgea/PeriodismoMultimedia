@@ -1,0 +1,241 @@
+<html>
+<!------ Preservacion digital case-study -Cards                ---->
+<!------ CCBYNCSA mgea, Jan 2024 v1.0                          ---->
+<!------ based on https://codepen.io/FrankieDoodie/pen/oPbMpQ   --->
+<!------- img cards de https://codepen.io/codingtuting/pen/XWrBgQz --->
+<!------ Grid Card Responsive Layout ------------------------------->
+
+    
+<head>
+  <meta charset="UTF-8"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 40px 0;
+  margin: 2vw;
+}
+
+
+h1 {
+        
+    font-family: 'Special Elite', cursive; 
+    color:darkslategray;
+    font-size: 24px;
+    }
+
+  
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 20px;
+  align-items: stretch;
+}
+
+.grid > article {
+  border: 1px solid #ccc;
+  position:relative;   /** para establecer posiciones fijas en card (link inferior) */ 
+  height: 480px;       /** para asignar tamaño altura fijo a cards */
+  box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+}
+
+.grid > article img {
+  max-width: 100%;
+}
+
+.grid > article .text {
+  padding: 20px ;
+  padding-top: 0px;
+  ;
+}
+
+    
+.grid > article > .link {
+       font-family: 'Special Elite', cursive; 
+        position: absolute;
+        text-align: center;
+        color: black;
+     
+        left: 5%;
+         bottom: 3%;
+         width: 85%;
+        border-radius: 15px;
+        color: darkslategrey;
+      /* text-emphasis: 15px; */
+         padding: 0.5em;
+         background-color: #0acaf5; 
+      
+       font-size: 16px; 
+}
+
+.grid > article > .label  {
+    /* tipo de preservación **/ 
+    font-family: 'Special Elite', cursive; 
+    position: absolute;
+    background: #cacaf5;
+    right:10%;
+    top:250px;
+}
+    
+    
+button.link:hover {
+      background-color:#cacaf5;
+      transition: 0.7s;
+  
+    }
+
+    
+    
+ .card-image {
+        position: relative;
+        margin: auto;
+        overflow: hidden;
+        height: 200px;
+        padding: 10px;
+        border-radius: 5px ;
+        transition: all .2s ease-in-out; 
+        }
+
+.card-image:hover {
+        
+         -webkit-transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            -o-transform: scale(1.05);
+            transform: scale(1.05);
+    }
+
+ 
+</style>
+  
+
+
+</head>
+
+    
+<body>
+   
+<h1>Proyectos de Preservación Digital</h1> 
+  <div class="container">
+  <main class="grid">
+  
+      <!---------------    DAM     ---------------------------->
+      <article>
+        <div class="card-image"> <img src="https://dam.org/museum/wp-content/uploads/2023/02/DAM-Museum-10997-2009-1024x709.png" ></div>
+      <div class="text">
+        <h2>DAM </h2> 
+        <p>Digital Art Museum (DAM) is an online resource for the history and practice of digital art launched in 2000 and rebuilt and upgraded in 2020.  </p>
+         
+      </div>
+          <div class="label"> museos </div>
+          <button class="link" onclick= OpenPage("https://www.dam.org/")>Ir a proyecto</button>
+    </article>
+     
+     <!---------------    e-Literatura     ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://editorial.centroculturadigital.mx/images/img-metas/imgs_e-lit.jpg" alt="Sample photo" ></div>
+      <div class="text">
+          
+        <h2>e-Literatura</h2>
+        <p>Es un proyecto que pretende difundir el trabajo de autores y artistas marcados por la influencia del lenguaje tecnológico, Centro de Cultura Digital de México </p>  
+      </div>
+        <div class="label"> museos </div>
+        <button class="link" onclick= OpenPage("https://editorial.centroculturadigital.mx/eliteratura") >Ir a proyecto </button>
+    </article>
+   
+      
+    
+      
+         <!---------------    fandom    ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fandom_%28Wikia%29.png" alt="Sample photo" ></div>
+      <div class="text">
+          
+        <h2>fandom</h2>
+        <p>Comunidad de fans que organizan contenidos de series, películas y juegos en torno a una wiki <a href="https://about.fandom.com/es/about" target="_blank"> leer más...</a></p>  
+      </div>
+        <div class="label"> museos </div>
+        <button class="link" onclick= OpenPage("https://www.fandom.com/") >Ir a proyecto </button>
+    </article>
+   
+        
+      
+      
+    <!---------------    wayback-machine     ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://lh3.googleusercontent.com/sNHYo1rG-KMKW8JTsfGbQfKpbwd-3xjT8VGgLh3qvIFNs7Z0MFM6BlMvDAlgz-ffZZy8UbJoSxt4XFqWQLoasPqs=w640-h400-e365-rj-sc0x00ffffff" alt="Wayback Machine" ></div>
+      <div class="text">
+          
+        <h2>Wayback Machine</h2>
+        <p>Es un proyecto que pretende difundir el trabajo de autores y artistas marcados por la influencia del lenguaje tecnológico, Centro de Cultura Digital de México </p>  
+      </div>
+        <div class="label"> past </div>
+        <button class="link" onclick= OpenPage("https://web.archive.org/")>Ir a proyecto </button>
+    </article>
+      
+        
+   <!---------------    emuladores    ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://forum.elivelinux.org/uploads/default/original/2X/f/f2c1e95ed64e0f275058e8d02a1060b4a19cc0ec.jpeg" alt="Wayback Machine" ></div>
+      <div class="text">
+          
+        <h2>Retro arch</h2>
+        <p>Software emulation techniques  transform the culture, and access experiences to digital cultural heritage as well as best practices for digital preservation professionals. <a href="https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24482" target="_blank"> read more..</a>
+      </div>
+        <div class="label"> emulation </div>
+        <button class="link" onclick= OpenPage("https://www.retroarch.com/")>Ir a proyecto </button>
+    </article>
+      
+           
+<!---------------   msx emuladores    ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://imag.malavida.com/mvimgbig/download-fs/bluemsx-16852-2.jpg" alt="Wayback Machine" ></div>
+      <div class="text">
+          
+        <h2>Consolas</h2>
+        <p>Emulación de consolas y sistemas operativos  como <a href="https://www.msxblog.es/breve-historia-del-msx/" target="_blank">MSX</a>
+            , <a href="https://jamesfriend.com.au/pce-js/ " target="_blank">Macintosh</a>, <a href="https://www.free80sarcade.com/all2600games.phptari" target="_blank"> Atari </a>, 
+            <a href="https://jsspeccy.zxdemo.org/" target="_blank"> ZX Spectrum </a>
+        
+      </div>
+        <div class="label"> emulation </div>
+        <button class="link" onclick= OpenPage("https://www.bluemsx.com/")>Ir a proyecto </button>
+    </article>
+      
+           
+<!---------------   games emuladores    ---------------------------->
+    <article>
+        <div class="card-image"> <img src="https://i.ytimg.com/vi/3AA4WjvEeNg/maxresdefault.jpg" alt="Wayback Machine" ></div>
+      <div class="text">
+          
+        <h2>Games</h2>
+          <p>Emulación de juegos de consolas clásicos como <a href="https://videojuegos.fandom.com/es/wiki/Categor%C3%ADa:Videojuegos_de_la_saga_The_Legend_of_Zelda" target="_blank"> Zelda</a>, <a href="https://videojuegos.fandom.com/es/wiki/Maniac_Mansion" target="_blank"> Maniac Mansion</a> </p>
+        
+      </div>
+        <div class="label"> emulation </div>
+        <button class="link" onclick= OpenPage("https://www.playemulator.io/")>Ir a proyecto </button>
+    </article>
+      
+           
+
+      
+  </main>
+</div>
+    
+    
+<script> 
+    
+    
+function  OpenPage(s) {
+  // abrir link en nuevo tab
+  //  alert(s);
+    window.open( s, "_blank");
+}
+</script>
+    
+</body>
+</html>
+

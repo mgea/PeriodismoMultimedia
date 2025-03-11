@@ -1,0 +1,185 @@
+<html>
+<!------ Iteracive video_Storytelling - grid image           ---->
+<!------ CCBYNCSA mgea, Jan 2024 v1.0                        ----> 
+<!------ based on https://codepen.io/jcb01/pen/KKyvZQN       ---->
+<!---https://codepen.io/alexhernandez/pen/qpeBrp grid + breakpoinnts -->
+<!-- Responsive con grid https://www.youtube.com/watch?v=El0OJ6h_2ZI -->
+<head>
+    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+ 
+ @import url('https://fonts.googleapis.com/css?family=Special+Elite');  
+
+body {
+  font-family: "Roboto", sans-serif;
+
+  margin: 2vw;
+}
+
+.titulo-foto {
+  font-family: 'Special Elite', cursive;
+  font-weight: 20;
+	font-size: 1rem;
+  align-items: center;
+	justify-content: center;
+	background: #fffdf5;
+	color: #3f3f5a;
+  position: fixed;
+  left: 10%;
+  bottom: 1vh;
+}
+
+
+
+p:hover {
+  cursor: default;
+}
+h2 {
+  color: orange;
+}
+
+.grid-container {
+  border: solid 1px #eeeeee; /*for debugging display */
+  padding: 0.5vw;
+  display: grid;
+ /* grid-template-columns: repeat(4, 1fr); */
+ grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));   /* fuerza responsive  -> https://www.youtube.com/watch?v=El0OJ6h_2ZI **/
+  grid-auto-rows: 25.5vw;  /* altura foto */
+  grid-gap: 0.5vw; /* optional gutter , use "vw" instead of "px" to keep proportions responsive */
+}
+
+.griditem {
+  background-size: cover;
+  background-position: center;
+  filter: grayscale(100%);
+  padding: 2vw;
+  font-size: 0.8em;
+  box-sizing: border-box;
+}
+.griditem:hover {
+  cursor: pointer;
+  filter: brightness(70%) ;
+}
+/* set background images*/
+.image1 {
+ /* background-position: left center;*/
+  background-image: url("https://static.wixstatic.com/media/b1d6a0_84bca512739046078bfcfc05f1273b77.gif");
+  /*grid-area: image1;*/
+}
+.image2 {
+  background-image: url("https://lh6.ggpht.com/SwosvzMfFmy1e3KBosbuDEKfp4XBzcXBMk5FV39MXGKX7kNXH4fedfooGidR5tQNGk-XVsGPfYuAbwphUDHSh4BQmQdPQGSdamw");
+  /*grid-area: image2;*/
+}
+.image3 {
+  background-image: url("https://fafswagvogue.com/share/img/share/share_chanter.jpg");
+  /*grid-area: image3;*/
+}
+
+.image4 {
+  background-position: top center;
+  background-image: url(" https://fiu-original.b-cdn.net/fontsinuse.com/use-images/39/39836/39836.png");
+  /*grid-area: image4;*/
+}
+    
+.image5 {
+  background-position: top center;
+  background-image: url("https://assets-global.website-files.com/5f6cbc6dd9be9a190bd040a6/60c3809b1854713bffcbdf3f_86andahalf.png");
+  /*grid-area: image4;*/
+}
+.image6 {
+  background-image: url("https://lasthijack.submarinechannel.com/img/fb_splash.jpg");
+}
+.image7 {
+  background-image: url("https://housewithoutwindows.huffpost.com/imgs/promo.jpg");
+}
+
+.image8 {
+  background-image: url("https://i.vimeocdn.com/video/540437934-994b287a283527c8f95590c18c8b0a94ee1bf5e6b0b5be5cc1551cfa4bac27a3-d");
+}
+
+
+    
+    
+    
+    
+</style>
+    
+
+
+    
+</head>
+
+    
+<body>
+   
+  <div id="grid" class="grid-container">
+
+    <div id="image1" class="griditem image1">
+       <span class="titulo-foto">  
+                  Bob Dylan interactive video (1965) 
+                  <a href="http://video.bobdylan.com/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+      
+    </div>
+
+     <div id="image2" class="griditem image2">
+     <span class="titulo-foto">  
+                  The Wilderness Downtown (Chris Milk, 2010)   
+                  <a href="http://www.thewildernessdowntown.com/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+        
+
+    </div>
+      
+    <div id="image3" class="griditem image3">
+      <span class="titulo-foto">  
+                  FAFSWAGVOGUE (2018)   
+                  <a href="https://fafswagvogue.com" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+
+
+    </div>
+      
+      
+   <div id="image4" class="griditem image4">
+      <span class="titulo-foto">  
+                  Kontra K interactive music video  
+                  <a href="https://andeinerseite.video/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+
+
+    </div>
+         
+      
+    <div id="image5" class="griditem image5">
+      <span class="titulo-foto">  
+                  86y1/2 year (2017) 
+                  <a href="https://www.86andahalfyears.com/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+
+    </div>
+    <div id="image6" class="griditem image6">
+       <span class="titulo-foto">  
+                  The Last Hijack (2014)   
+                  <a href="https://lasthijack.submarinechannel.com/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+        
+        
+    </div>
+
+    <div id="image7" class="griditem image7">
+        <span class="titulo-foto">  
+                  House Without Windows (HuffPost, 2017)     
+                  <a href="https://housewithoutwindows.huffpost.com/" target="_blank">  <i class="fa-solid fa-up-right-from-square"></i> </a></span>  
+      
+      </div>
+    
+     <div id="image8" class="griditem image8">
+     <span class="titulo-foto">  
+                  Ninnette (2016)
+                  <a href=" https://ninette.berlin/" target="_blank"> <i class="fa-solid fa-up-right-from-square"></i> </a></span>
+        
+
+    </div>  
+      
+      
+  </div>
+    
+</body>
+</html>
+
