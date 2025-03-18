@@ -81,7 +81,7 @@ Filosofía Open Source
 ## Acerca de..
 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > [Miguel Gea]([https://](https://mgea.github.io/about/#/), updated: 18/02/2025
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > [Miguel Gea](https://mgea.github.io/about/#/), updated: 18/02/2025
 
 
 
