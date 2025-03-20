@@ -52,7 +52,7 @@ El proceso creativo usando medios digitales cambia esa percepción, ya que ese p
 
 IA vista con el modelo de Hype Cycle de Gadner (representa las expectativas de una tecnología y la adopción real de la misma). 
 
-![hype](https://emt.gartnerweb.com/ngw/globalassets/en/articles/images/hype-cycle-for-artificial-intelligence-2023.png)
+![hype](img/hype-cycle-for-artificial-intelligence-2023.png)
 
 
 En el caso de la IA (generativa), estamos en el mayor punto de hiperinflación de expectativas.
