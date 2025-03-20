@@ -32,3 +32,34 @@ Margaret Boden (Boden, 2011) propone el siguiente criterio:
 Referencia: 
 * Margaret A. Boden (2011) The Turing test and artistic creativity. https://www.emerald.com/insight/content/doi/10.1108/03684921011036132/full/pdf
 
+
+-----
+<br>
+
+## Proceso creativo
+
+
+El proceso creativo usando medios digitales cambia esa percepción, ya que ese proceso se convierte en una secuencia de operaciones discretas con parámetros numéricos que se aplican sobre capas de software  (Photoshop, AfterEffects,....) 
+
+- Aumenta saturación un 5%
+- Aplica un filtro Gaussiano de 30%
+- Crea una capa y fusiona con existentes al 50% de canal alfa
+
+
+<br>
+
+## AI HYPE-Cycle
+
+IA vista con el modelo de Hype Cycle de Gadner (representa las expectativas de una tecnología y la adopción real de la misma). 
+
+![hype](https://emt.gartnerweb.com/ngw/globalassets/en/articles/images/hype-cycle-for-artificial-intelligence-2023.png)
+
+
+En el caso de la IA (generativa), estamos en el mayor punto de hiperinflación de expectativas.
+
+
+
+
+
+
+
