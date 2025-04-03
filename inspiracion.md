@@ -6,13 +6,20 @@ Recursos de inspiración & diseño
 
 #### Espacios de inspiración
 
-* **The FWA** Showing experience cutting-edge innovation in digital design and development. https://thefwa.com 
+* **The FWA** Showing experience cutting-edge innovation in digital design and development. https://thefwa.com
+  
 *  **Awwward**. The awards of design, creativity and innovation on the internet https://www.awwwards.com
+
 * **Webby awwards** The leading international award honoring excellence on the Internet since 1996 on diferent categories (websites, video online, publicidad, social media) and topics http://webbyawards.com
+
 * **Submarine Channel**. Explores the future of storytelling https://submarinechannel.com
+
 * **Art Futura**, https://www.artfutura.org/v3/
+
 * **ScreenDiver** the Digital Comics Directory, the world’s best interactive comics. https://screendiver.com
-* Academy of Interactive Arts & Sciences (AIAS) was founded in 1996 as a not-for-profit organization dedicated to the advancement and recognition of the interactive arts, and the D.I.C.E. (Design, Innovate, Communicate, Entertain) awards (games) https://www.interactive.org/
+
+* Academy of Interactive Arts & Sciences (AIAS) was founded in 1996 as a not-for-profit organization dedicated to the advancement and recognition of the interactive arts, and the D.I.C.E (Design, Innovate, Communicate, Entertain) awards (games) https://www.interactive.org/
+
 * **Robotic Online Short Film Festival** (ROS Film Festival) se plantea como el primer festival online de cortometrajes con temática robótica http://rosfilmfestival.com/
 
 
