@@ -44,7 +44,7 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 ## Inspiración
 
-- [Recursos inspiración](inspiracion.md) lista completa actualizada
+- [Recursos inspiración](recursos.md) lista completa actualizada
 
 Algunos de los sitios y recursos más destacados son: 
 
