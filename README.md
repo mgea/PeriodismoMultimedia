@@ -44,15 +44,19 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 ## Inspiración
 
-- [The FWA](https://thefwa.com) Showing experience cutting-edge innovation in digital design and development  
+- [Recursos inspiración](inspiracion.md) lista completa actualizada
 
-- [Awwward](https://www.awwwards.com) The awards of design, creativity and innovation on the internet 
+Algunos de los sitios y recursos más destacados son: 
 
-- [Submarine Channel](https://submarinechannel.com) explores the future of storytelling
+  - [The FWA](https://thefwa.com) Showing experience cutting-edge innovation in digital design and development  
+
+  - [Awwward](https://www.awwwards.com) The awards of design, creativity and innovation on the internet 
+
+  - [Submarine Channel](https://submarinechannel.com) explores the future of storytelling
 
 Proyectos: 
 
-- [MuseMap Street Art App — UX Case Study](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
+  - [MuseMap Street Art App — UX Case Study](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
 
 - 
 
