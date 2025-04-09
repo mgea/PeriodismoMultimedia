@@ -7,6 +7,7 @@
 ### ¿Cómo carajos llegue a Granada?
 * Github:
 * ArcWeave:
+* Personaje (IA). https://character.ai/chat/zAol9aBTK6lzEfxgn7U881QEC3hApHOgJBFdHHlqYUQ
 * 
 
 
