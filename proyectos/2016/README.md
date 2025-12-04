@@ -40,7 +40,7 @@ Autores: Juan Gómez Becerra & Miguel Antonio Rodríguez Cardenas
 
 **Objetivo**: Elaborar una plataforma para compartir rutas, consejos, e impartir talleres sobre fotografía nocturna en diversas rutas de senderismo.
 
-**Planteamiento: **
+**Planteamiento:**
 
 * Lista: 10 fotos para inspirarte en la fotografía nocturna.
 * Lista: 5 rutas que debes hacer, si todavía no las has completado.
