@@ -109,7 +109,7 @@ CONCLUSION:	"Creemos que nuestro objetivo es alcanzable, ya que gracias a difere
 
 Autores. Oihana Agirre, Elizabeth Bartholf, Joaquín García, Alan Hewitt, Carlos Malagón
 
-![Equipo](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/HiddenG.JPG)
+![Equipo](HiddenG.JPG)
 
 Objetivos: Si por algo es conocida la ciudad de Granada en todo el mundo es, precisamente, por albergar en su seno una de las joyas arquitectónicas más grandes y bellas del medievo: la Alhambra. Además, Granada también es conocida, por propios y extraños, por su Catedral situada junto a la Capilla Real, donde se encuentran las tumbas de los Reyes Católicos, o por uno de sus barrios más famosos, el Albaicín.
 
@@ -126,6 +126,6 @@ Para comenzar nuestra andadura queremos elaborar una primera ruta comprendida en
 
 * Yincana. En caso de que la ruta tuviese éxito y que los curiosos estuviesen interesados en conocer los detalles más a fondo, se podría plantear el hecho de realizar una yincana participativa a lo largo de la ruta que hemos realizado.
 
-[Memoria proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/Hiddengemsgr.pdf)
+[Memoria proyecto](Hiddengemsgr.pdf)
 
 
