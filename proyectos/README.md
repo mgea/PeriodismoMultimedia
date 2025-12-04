@@ -16,20 +16,19 @@ Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Mu
 Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y proyectos por parte de los estudiantes de la asignatura. Aquí podemos ver un resumen de las actividades más destacadas del curso 
 
 
-- [Proyecto del 2016](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/README.md) 
+- [Proyecto del 2016](2016/README.md) 
 
-- [Proyecto del 2017](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/README.md) 
+- [Proyecto del 2017](2017/README.md) 
 
-- [Proyecto del 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/readme.md) 
+- [Proyecto del 2018](2018/readme.md) 
 
-
-- [Proyecto del 2019](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/readme.md) 
-- [Proyecto del 2020](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/readme.md)
-- [Proyectoss del 2021](https://github.com/mgea/PeriodismoMultimedia/blob/master/2021/readme.md)   
-- [Proyectos del 2022](https://github.com/mgea/PeriodismoMultimedia/blob/master/2022/readme.md)   
-- [Proyectos del 2023](https://github.com/mgea/PeriodismoMultimedia/tree/master/2023)
-- [Proyectos del 2024](https://github.com/mgea/PeriodismoMultimedia/tree/master/2024)
-- [Proyectos del 2025](https://github.com/mgea/PeriodismoMultimedia/tree/master/2025)
+- [Proyecto del 2019](2019/readme.md) 
+- [Proyecto del 2020](2020/readme.md)
+- [Proyectoss del 2021](2021/readme.md)   
+- [Proyectos del 2022](2022/readme.md)   
+- [Proyectos del 2023](./2023/readme.md)
+- [Proyectos del 2024](./2024/readme.md)
+- [Proyectos del 2025](./2025/readme.md)
 
 
 
