@@ -11,12 +11,12 @@ Generación de ideas:
 
 * Público objetivo
 
-![Público](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Publicos.JPG)
+![Público](Publicos.JPG)
 
 
 * Experiencia
 
-![Experiencia](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Experiencia.JPG)
+![Experiencia](Experiencia.JPG)
 
 
 
@@ -29,7 +29,7 @@ Generación de ideas:
 * DIRIGIDO A: Generación Z
 * Experiencia: Hibrida Real/Periodico online	
 		
-![Proy1](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy1.JPG)
+![Proy1](Proy1.JPG)
 
 
 #2 -  Videojuego
@@ -38,7 +38,7 @@ Generación de ideas:
 
  
 
-![Proy2](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy2.JPG)
+![Proy2](Proy2.JPG)
 
 
 #3 -  i-doc
@@ -51,7 +51,7 @@ Generación de ideas:
     
 		
 		
-![Proy3](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy3.JPG)
+![Proy3](Proy3.JPG)
 
 
 #4 - CyberBulling
@@ -60,7 +60,7 @@ Generación de ideas:
  
 * :octocat:  
 		
-![Proy4](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy4.JPG)
+![Proy4](Proy4.JPG)
 
 
 #5 - Gastroturismo
@@ -70,6 +70,6 @@ Generación de ideas:
 * Argumento:     
 * :octocat: ![Proy5](https://github.com/luciarcanton/PeriodismoMultimedia)	
 
-![Proy5](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Proy5.JPG)
+![Proy5](Proy5.JPG)
 
 

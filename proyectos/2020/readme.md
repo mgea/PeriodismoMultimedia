@@ -63,7 +63,7 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * **Cita**: Mementos, recuerdos digitales para el futuro.
 * Web, logo y Video promocional: https://pjarpa.github.io
 
-![Mementos](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/Logo_Mementos.png)
+![Mementos](Logo_Mementos.png)
 
 ---
 
@@ -99,7 +99,7 @@ Youtube (trailer promocional o introducción, es una cuenta de mi marca personal
 * Web : http://culturestrikesback.wixsite.com/website
 * List: https://view.genial.ly/5e95c20836fb330dff3a431d/learning-experience-challenges-genially-sin-titulo
 
-![DocPunck3](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/Logo_DocPunk3.jpg)
+![DocPunck3](Logo_DocPunk3.jpg)
 
 ---
 
@@ -137,7 +137,7 @@ Slogan: Un programa para gamers
 * Twitch: https://www.twitch.tv/edeportestv/
 * Canal Youtube: https://www.youtube.com/channel/UCh9d5SMnDAGED5HjdnJIV5A
 
-![eDeportes](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/edes.png)
+![eDeportes](edes.png)
 
 
 -----
@@ -152,7 +152,7 @@ Slogan: Un programa para gamers
 * Twitter: https://twitter.com/Jesuu97/status/1250484898361683970
 * Web: https://jesuu97rm.wixsite.com/curiosidadesstarwars
 
-![StarWars](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/starwar.png)
+![StarWars](starwar.png)
 
 ---
 
