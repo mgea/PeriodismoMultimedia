@@ -9,7 +9,7 @@ Proceso de generación de ideas:
 * Temáticas: Proceso de ideación 
 
 
-![lluvia de ideas](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Ideacion01.png)
+![lluvia de ideas](Ideacion01.png)
 
 
 
