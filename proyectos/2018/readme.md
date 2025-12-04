@@ -24,7 +24,7 @@ Proy1 -  Granada sonora
   
   * [Github mj19942](https://github.com/mj19942)
  
-![Granada Sonora, 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/granada_sonora.JPG)
+![Granada Sonora, 2018](granada_sonora.JPG)
 
 
 Proy 2 - Minervaflix
@@ -140,7 +140,7 @@ Proy 8 -  Solidario
 
 
 
-![E-sport Live VR , 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/evolving.JPG) 
+![E-sport Live VR , 2018](evolving.JPG) 
 
 
 
