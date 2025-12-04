@@ -5,7 +5,7 @@
 
 
 
-![foto360](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/foto360_1.png)
+![foto360](foto360_1.png)
 
 Presentacion de los proyectos en un entorno 360º.  http://utopolis.ugr.es/media/master17/
 
@@ -15,7 +15,7 @@ Presentacion de los proyectos en un entorno 360º.  http://utopolis.ugr.es/media
 
 Autores: Rebeca García Ocaña, Eva Nicolás Alcaraz, Marta Pichardo Escudero, Laura Velasco Urbano
  
- ![Equipo Anda Jaleo](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/AndaJaleo.JPG)
+ ![Equipo Anda Jaleo](AndaJaleo.JPG)
  
 **Objetivo**: Dar a conocer detalles interesantes y curiosidades sobre la vida de Federico García Lorca, así como también hablar en profundidad de su obra literaria haciendo diversos recorridos tanto biográficos como literarios en la provincia de Granada, teniendo al propio Lorca como narrador.
 
@@ -27,7 +27,7 @@ Autores: Rebeca García Ocaña, Eva Nicolás Alcaraz, Marta Pichardo Escudero, L
 * Biografía de Lorca narrada en Timeline.
 * Lista de reproducción del cancionero de Lorca, con código QR para acceder a la lista de reproducción.
 
-[Presentación del proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/Anda_jaleo.pdf) 
+[Presentación del proyecto](Anda_jaleo.pdf) 
 
 ## Proyecto #2 EncuentraTuChurro
 
@@ -39,7 +39,7 @@ Objetivos:
 - Enumerar las virtudes de la industria de la masa frita
 - Contar historias inherentes al mundo de las churrerías y los churreros
 
-![Equipo proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/Churro.JPG)
+![Equipo proyecto](Churro.JPG)
 
 Actividades: 
 * Lista de churrerías de la ciudad con sus valoraciones WORDPRESS 
@@ -59,7 +59,7 @@ Actividades:
  
 OBJETIVO: Ofrecer a los amantes de la feria del Corpus y de las nuevas tecnologías una experiencia diferente para disfrutar del Corpus 2017. Información, entretenimiento y ofertas para utilizar durante las horas que pasen dentro del ferial.
 
-![Granada y Olé](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/GrOle.JPG) 
+![Granada y Olé](GrOle.JPG) 
 
 ACTIVIDAD:
 
@@ -77,14 +77,14 @@ Conclusiones: Las nuevas tecnologías están cada vez más presentes en nuestras
 En festividades masificadas, como es el Corpus, a veces cuesta trabajo encontrar a tus compañeros, puntos de encuentro o sitios donde quedar, debido a lo complicado que puede ser crear un punto de encuentro. Por ello, lo que aquí proponemos además es facilitar el trabajo a los asistentes a la feria.
 Este trabajo se crea para transformar la Feria de Granada en un lugar que ayude a los amigos y asistentes a pasar un rato agradable y divertido.
 
- [Memoria proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/Granada_y_Ole.pdf)
+ [Memoria proyecto](Granada_y_Ole.pdf)
 
 
 ## Proyecto #4 Miradas 
 
 Autores: Marta Helena Alegre Mejías, Andrea Rodríguez Capote, María Elena Araujo Díaz, Alba Martínez Portillo
 
-![Equipo proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/miradas.JPG)
+![Equipo proyecto](miradas.JPG)
 
 **OBJETIVO:**	Recomendar a la población los mejores lugares de Granada para sus trabajos audiovisuales, tanto vídeos como fotografías en la ciudad.
 
@@ -98,7 +98,7 @@ Actividades:
 *	Redes sociales para publicidad	
 *	Pistas, WallaMe	
 
-[Memoria proyecto](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/MIRADAS.pdf) 
+[Memoria proyecto](MIRADAS.pdf) 
 
 CONCLUSION:	"Creemos que nuestro objetivo es alcanzable, ya que gracias a diferentes plataformas permitimos que el usuario acceda fácilmente mediante su propio Smartphone a las diferentes oportunidades informativas que les ofrecemos. 
 
