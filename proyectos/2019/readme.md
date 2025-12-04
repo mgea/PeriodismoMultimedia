@@ -7,7 +7,7 @@ Generación de ideas:
 
 * Temáticas
 
-![Temáticas](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/Tema.JPG) 
+![Temáticas](Tema.JPG) 
 
 * Público objetivo
 
