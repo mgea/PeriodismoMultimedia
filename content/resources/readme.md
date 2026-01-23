@@ -1,4 +1,4 @@
-# COntenidos / recursos multimedia 
+# Contenidos / recursos multimedia 
 
 
 * [Multimedia timeline](https://mgea.github.io/PeriodismoMultimedia/content/resources/timeline.html)
