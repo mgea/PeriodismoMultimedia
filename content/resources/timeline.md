@@ -1,6 +1,7 @@
 # Multimedia timeline 
 
 
+[Version HTML](https://mgea.github.io/PeriodismoMultimedia/content/resources/timeline.html) 
 
 
 * 1983 - SketchPad - https://www.youtube.com/watch?v=6orsmFndx_o
