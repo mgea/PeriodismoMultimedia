@@ -12,4 +12,4 @@
 * [Ben Shneiderman,](https://mgea.github.io/PeriodismoMultimedia/content/citas/cita_Shneiderman.html)
 * [Tim Brown, IDEO - Design Thinking: Change by design (2009)](https://mgea.github.io/PeriodismoMultimedia/content/citas/cita_TimBrown_DT.html)
 
- 
+* [Richard Stallman, Manifiesto GNU 1983]((https://mgea.github.io/PeriodismoMultimedia/content/citas/cita_Stallman.html) 
