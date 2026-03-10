@@ -18,9 +18,13 @@ Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Mu
 
 
 
+* Presentación [en Framer](https://nice-daffodil-785408.framer.app/) 
 * El contenido de la asignatura está disponible en https://mgea.github.io/PeriodismoMultimedia/
+* 
+* Carpeta con el contenido: https://github.com/mgea/PeriodismoMultimedia/
+* Linea trabajo y TFM: https://mgea.github.io/storytelling-tfm/
 
-* Carpeta con el contenido: https://github.com/mgea/PeriodismoMultimedia/tree/master/content 
+  
 
    
 
