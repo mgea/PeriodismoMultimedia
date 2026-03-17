@@ -66,11 +66,7 @@ Proyectos:
 
 Herramientas: 
 
-- [Trello](https://trello.com/b/3YjvDccp/proyectomultimedia)
-
-- [Storyboarder](https://wonderunit.com/storyboarder/) creación de storyboard de una historia (2d/3D) exporta a PDF/gif/MP4
-- [Arcweave](https://arcweave.com) Diseño de narrativas para Juegos
-
+- [Herramientas creación multimedia interactiva](https://github.com/mgea/PeriodismoMultimedia/wiki)
 
 
 
