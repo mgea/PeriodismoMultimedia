@@ -8,4 +8,7 @@ Ejemplo: https://slides.com/miguelgea/welcome-21907a/fullscreen
 
 Obtención del código con web scrapping 
 
-https://mgea.github.io/
+código: https://github.com/mgea/PeriodismoMultimedia/demo/reveal/
+
+
+Web: https://mgea.github.io/PeriodismoMultimedia/demo/reveal/
