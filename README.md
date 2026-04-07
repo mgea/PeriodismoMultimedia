@@ -23,6 +23,7 @@ Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Mu
 * 
 * Carpeta con el contenido: https://github.com/mgea/PeriodismoMultimedia/
 * Linea trabajo y TFM: https://mgea.github.io/storytelling-tfm/
+* Documentación + herramientas: https://github.com/mgea/PeriodismoMultimedia/wiki
 
   
 
