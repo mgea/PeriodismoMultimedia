@@ -61,7 +61,7 @@ Algunos de los sitios y recursos más destacados son:
 
 Proyectos: 
 
-  - [MuseMap Street Art App — UX Case Study](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
+  - Moebius::arzarch El viaje en silencio [revealJS](https://mgea.github.io/webdoc-reveal/moebius)
 
 - 
 
