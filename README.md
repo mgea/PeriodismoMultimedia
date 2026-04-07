@@ -61,7 +61,7 @@ Algunos de los sitios y recursos más destacados son:
 
 Proyectos: 
 
-  - Moebius::arzarch El viaje en silencio [revealJS](https://mgea.github.io/webdoc-reveal/moebius) en RevealJS
+  - Moebius::arzarch El viaje en silencio [revealJS](https://mgea.github.io/webdoc-reveal/moebius) 
   - Godot [The Faculty](godot_thefaculty26.zip)
 
 Herramientas: 
