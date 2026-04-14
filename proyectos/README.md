@@ -29,7 +29,7 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 - [Proyectos del 2023](./2023/readme.md)
 - [Proyectos del 2024](./2024/readme.md)
 - [Proyectos del 2025](./2025/readme.md)
-
+- [Proyectos del 2026](./2026/readme.md)
 
 
 
